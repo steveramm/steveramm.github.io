@@ -48,17 +48,17 @@ analytics:
 # navbar text without changing the URL.
 nav_pages:
   - name: research
-  label: "01 Research"
+  label: 01 Research
   - name: team
-  label: "02 Team"
+  label: 02 Team
   - name: publications
-  label: "03 Publications"
+  label: 03 Publications
   - name: teaching
-  label: "04 Teaching"
+  label: 04 Teaching
   - name: cv
-  label: "05 CV"
+  label: 05 CV
   - name: blog
-  label: "06 Blog"
+  label: 06 Blog
 
 # ============================================================
 # STEP 5: Publications (assets/ref.bib)
