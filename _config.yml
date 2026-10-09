@@ -49,6 +49,7 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
+  label: '01 Publications'
   - name: talks
   - name: research
   - name: software
