@@ -2,12 +2,47 @@
 layout: default
 ---
 
-<div class="home-grid">
-  <div class="home-content">
-    {{ content }}
-  </div>
+<div class="home-cover">
+  <video
+    class="home-cover-video"
+    autoplay
+    muted
+    loop
+    playsinline
+    preload="metadata"
+    poster="{{ '/assets/images/flatworms-poster.jpg' | relative_url }}"
+    aria-label="Flatworms swimming"
+  >
+    <source
+      src="{{ '/assets/video/flatworms.mp4' | relative_url }}"
+      type="video/mp4"
+    >
+  </video>
 
-  <div>
-    {% include sidebar.html %}
+  <div class="home-cover-shade"></div>
+
+  <div class="home-cover-content">
+    <p class="home-cover-kicker">RESEARCH GROUP</p>
+
+    <h1>{{ site.name | escape }}</h1>
+
+    <p class="home-cover-affiliation">
+      {{ site.institution | escape }}
+    </p>
+
+    <nav class="home-cover-nav" aria-label="Main navigation">
+      {% for nav in site.nav_pages %}
+        <a href="{{ nav.name | prepend: '/' | relative_url }}">
+          <span class="home-cover-number">
+            {{ forloop.index | prepend: '00' | slice: -2, 2 }}
+          </span>
+          {% if nav.label %}
+            {{ nav.label | remove_first: forloop.index | remove_first: ' ' }}
+          {% else %}
+            {{ nav.name | capitalize }}
+          {% endif %}
+        </a>
+      {% endfor %}
+    </nav>
   </div>
 </div>
