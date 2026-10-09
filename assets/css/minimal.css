@@ -1,0 +1,284 @@
+/* Minimal academic website — design system */
+
+:root {
+  --paper: #ffffff;
+  --ink: #191919;
+  --muted: #707070;
+  --rule: #dedede;
+  --accent: #8d252b;
+
+  --page-gutter: clamp(22px, 5vw, 76px);
+  --grid-gap: clamp(12px, 1.6vw, 26px);
+  --section-space: clamp(56px, 8vw, 112px);
+
+  --font-heading: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-body: "DM Sans", Arial, sans-serif;
+  --font-meta: "IBM Plex Mono", monospace;
+
+  --body-size: 16px;
+  --body-leading: 1.7;
+}
+
+/* Base */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper) !important;
+  color: var(--ink) !important;
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: var(--body-leading);
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar,
+.navbar-brand {
+  color: var(--ink);
+  font-family: var(--font-heading);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  line-height: 1.05;
+}
+
+h2 {
+  font-size: clamp(1.6rem, 2.5vw, 2.25rem);
+  line-height: 1.2;
+}
+
+p {
+  max-width: 68ch;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  color: var(--ink);
+}
+
+img,
+video {
+  max-width: 100%;
+}
+
+/* Shared navigation */
+
+.navbar.sticky-top {
+  position: relative;
+  background: var(--paper) !important;
+  border-bottom: 1px solid var(--rule);
+  padding: 18px var(--page-gutter);
+}
+
+.navbar > .container {
+  max-width: none !important;
+  padding: 0;
+}
+
+.navbar-brand {
+  margin-right: 32px;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.navbar-brand img {
+  display: none !important;
+}
+
+.navbar-nav {
+  gap: 6px;
+}
+
+.navbar .nav-link {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  padding-inline: 8px;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: var(--accent);
+}
+
+.navbar-toggler {
+  border: 1px solid var(--rule);
+  border-radius: 0;
+}
+
+/* Remove the old theme controls */
+
+.search-toggle,
+.dark-mode-toggle {
+  display: none !important;
+}
+
+/* Main page container */
+
+.site-container {
+  width: 100%;
+  max-width: none !important;
+  margin: 0;
+  padding: 0 var(--page-gutter);
+}
+
+.site-container > * {
+  min-width: 0;
+}
+
+/* Twelve-column editorial grid */
+
+.page-grid,
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--grid-gap);
+  align-items: start;
+}
+
+.page-label,
+.home-label {
+  grid-column: span 3;
+}
+
+.page-content,
+.home-content {
+  grid-column: span 9;
+  min-width: 0;
+}
+
+.page-content p,
+.home-content p {
+  max-width: 68ch;
+}
+
+/* Content sections */
+
+.page-section {
+  margin-block: var(--section-space);
+  border-top: 1px solid var(--rule);
+  padding-top: 1.5rem;
+}
+
+.section-number,
+.meta {
+  color: var(--muted);
+  font-family: var(--font-meta);
+  font-size: 0.72rem;
+  letter-spacing: 0.025em;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  opacity: 1;
+  margin-block: 2rem;
+}
+
+blockquote {
+  border-left: 1px solid var(--accent);
+  padding-left: 1.25rem;
+  color: var(--muted);
+}
+
+/* Publications and lists */
+
+.publication,
+.publication-item,
+.team-member {
+  border-bottom: 1px solid var(--rule);
+  padding-block: 1.25rem;
+}
+
+ul,
+ol {
+  padding-left: 1.25rem;
+}
+
+li {
+  padding-block: 0.15rem;
+}
+
+/* Footer */
+
+footer {
+  margin-top: var(--section-space);
+  padding: 24px var(--page-gutter);
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+/* Mobile */
+
+@media (max-width: 767px) {
+  .navbar.sticky-top {
+    padding: 14px var(--page-gutter);
+  }
+
+  .navbar-collapse {
+    padding-top: 16px;
+  }
+
+  .navbar-nav {
+    align-items: flex-start;
+  }
+
+  .navbar .nav-link {
+    padding: 8px 0;
+  }
+
+  .page-grid,
+  .home-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .page-label,
+  .home-label,
+  .page-content,
+  .home-content {
+    grid-column: 1 / -1;
+  }
+
+  .page-label,
+  .home-label {
+    margin-bottom: 1.5rem;
+  }
+
+  h1 {
+    font-size: clamp(2.3rem, 11vw, 3.5rem);
+  }
+}
+
+/* Respect reduced-motion preferences */
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
