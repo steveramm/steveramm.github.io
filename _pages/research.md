@@ -4,6 +4,10 @@ title: Research
 permalink: /research/
 section_number: "01"
 subtitle: Scientific programme
+intro: >-
+  Our research explores fundamental questions about the physical
+  world, developing theoretical frameworks to understand complex
+  interactions and emerging phenomena.
 ---
 
 
