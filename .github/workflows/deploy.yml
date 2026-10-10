@@ -40,6 +40,7 @@ jobs:
         run: |
           printf 'url: "%s"\nbaseurl: "%s"\n' "$PAGES_ORIGIN" "$PAGES_BASE_PATH" > _config_pages.yml
           bundle exec jekyll build --config _config.yml,_config_pages.yml
+          find _site -maxdepth 3 -iname '*research*' -print
         env:
           JEKYLL_ENV: production
           PAGES_ORIGIN: ${{ steps.pages.outputs.origin }}
