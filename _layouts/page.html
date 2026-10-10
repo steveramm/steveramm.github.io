@@ -2,6 +2,30 @@
 layout: default
 ---
 
-<div class="fade-in-section">
-  {{ content }}
+<div class="fade-in-section page-layout">
+
+  <header class="page-grid page-header">
+    <div class="page-label">
+      <p class="meta">{{ page.section_number }} / {{ page.title | upcase }}</p>
+      <h1>{{ page.title }}</h1>
+
+      {% if page.subtitle %}
+        <p class="meta">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+
+    <div class="page-content page-intro">
+      {% if page.intro %}
+        {{ page.intro | markdownify }}
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="page-grid page-body">
+    <div class="page-label"></div>
+    <div class="page-content">
+      {{ content }}
+    </div>
+  </div>
+
 </div>
