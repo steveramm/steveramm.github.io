@@ -337,7 +337,7 @@ body:has(.home-cover) .site-container {
 
 .home-cover-content {
   width: 100%;
-  padding: clamp(24px, 5vw, 76px);
+  padding: clamp(24px, 5vw, 48px);
 }
 
 .home-cover-kicker,
