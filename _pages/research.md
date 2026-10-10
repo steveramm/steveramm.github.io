@@ -1,9 +1,9 @@
-
 ---
 title: "Research"
 layout: page
 permalink: /research/
 ---
+
 
 <div class="page-grid research-intro">
   <header class="page-label">
