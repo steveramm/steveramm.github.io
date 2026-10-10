@@ -1,7 +1,9 @@
 ---
-title: "Research"
 layout: page
+title: Research
 permalink: /research/
+section_number: "01"
+subtitle: Scientific programme
 ---
 
 
