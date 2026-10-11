@@ -6,7 +6,7 @@ section_number: "01"
 ---
 <div class="page-grid research-intro"> <div class="page-label"></div>
 
-<div class="page-content"> <p class="research-lead">Bridging organismal and molecular perspectives on adaptive evolution and plasticity, our research programme focuses on the evolutionary ecology of reproduction.</p>
+<div class="page-content"> <p class="research-lead">Bridging organismal and molecular perspectives on adaptive evolution and plasticity, our research programme focuses on the evolutionary ecology of reproduction.</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.01</p> <h2>Research theme one</h2> </header>
 
