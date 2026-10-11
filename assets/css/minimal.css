@@ -553,3 +553,10 @@ body:has(.home-cover) .site-container {
     font-size: 1.2rem;
   }
 }
+
+/* Remove decorative red lines after homepage H1 headings */
+.home-cover h1::after,
+.home-cover h1::before {
+  display: none !important;
+  content: none !important;
+}
