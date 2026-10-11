@@ -5,7 +5,6 @@ permalink: /research/
 section_number: "01"
 ---
 
-
 <div class="page-layout">
 
 <section class="page-grid page-header"> <header class="page-label"> <div class="section-number">01</div> <h1>Research</h1> </header>
