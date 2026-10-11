@@ -27,12 +27,6 @@ layout: default
     <h1>{{ "UMR CNRS 6553 ECOBIO" | escape }}</h1>
     <h1>{{ "Université de Rennes, France" | escape }}</h1>
 
-
-    <p class="home-cover-affiliation">
-      {{ "ECOBIO" }}<br>
-      {{ "Rennes" }}
-    </p>
-
     <nav class="home-cover-nav" aria-label="Main navigation">
       {% for nav in site.nav_pages %}
         <a href="{{ nav.name | prepend: '/' | relative_url }}">
