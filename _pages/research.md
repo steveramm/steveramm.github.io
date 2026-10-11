@@ -5,12 +5,10 @@ permalink: /research/
 section_number: "01"
 ---
 
-<div class="page-grid page-header"> <header class="page-label">
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.01</p> <h2>Research theme one</h2> </header>
 
-<div class="section-number">01</div>
+<div class="page-content"> <p>Description of the first research theme.</p> </div> </div>
 
-<h1>Research</h1>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Research theme two</h2> </header>
 
-</header> <div class="page-content"> <p>Your research introduction goes here.</p> </div> </div>
-
-<div class="research-sections"> <section class="page-grid research-item"> <header class="page-label"> <div class="section-number">01.01</div> <h2>Research theme one</h2> </header> <div class="page-content"> <p>Description of the first research theme.</p> </div> </section> </div>
+<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
