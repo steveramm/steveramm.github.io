@@ -598,3 +598,28 @@ h2::after {
 .page-layout .page-content {
   font-family: "IBM Plex Sans", "DM Sans", sans-serif;
 }
+
+/* Interior pages — typography */
+
+/* Headings: match the homepage's sans-serif style */
+.page-layout h1,
+.page-layout h2,
+.page-layout h3,
+.page-layout h4 {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
+/* Body text */
+.page-layout .page-content {
+  font-family: var(--font-body);
+}
+
+/* Metadata and numbering */
+.page-layout .meta,
+.page-layout .section-number {
+  font-family: var(--font-meta);
+  font-size: 0.72rem;
+  letter-spacing: 0.025em;
+}
