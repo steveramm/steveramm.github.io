@@ -561,3 +561,9 @@ h2::after {
   display: none !important;
   content: none !important;
 }
+
+@media (max-width: 767px) {
+  .home-cover h1 {
+    font-size: clamp(2rem, 8vw, 3rem);
+  }
+}
