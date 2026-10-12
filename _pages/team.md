@@ -16,13 +16,13 @@ section_number: "02"
 
 </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p></p> </div> </div>
+<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p></p> 
 
 <div class="page-content">
 
 <p> <img src="/images/team/group2026.jpeg" alt="May 2026" class="team-photo"> May 2026.</p> <div style="clear: both;"></div> </div>
 
-<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/team/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. </p> <div style="clear: both;"></div> </div>
+</div> </div>
 
 </div> </div>
 
