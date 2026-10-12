@@ -675,7 +675,17 @@ footer.site-footer {
 /* Team photos */
 .team-photo {
   width: 100%;
-  max-width: 300px;
+  max-width: 350px;
+  height: auto;
+  object-fit: cover;
+  float: left;
+  margin: 0 20px 12px 0;
+}
+
+/* Team group photos */
+.group-photo {
+  width: 100%;
+  max-width: 500px;
   height: auto;
   object-fit: cover;
   float: left;
