@@ -6,7 +6,18 @@ section_number: "02"
 ---
 <div class="page-grid research-intro"> <div class="page-label"></div> <div class="page-content"> <p class="research-lead"></p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <h2>Current team members</h2> </header> <div class="page-content"> <h2>Steve Ramm</h2> <p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" width="200"> </p> <p>PI.</p> </div> </div>
+<div class="page-grid research-item"> <header class="page-label"> <h2>Current team members</h2> <h2 class="team-member-name">Steve Ramm</h2>
+
+<p>
+  <img
+    src="/images/steve_not_cropped.jpg"
+    alt="Steve Ramm"
+    style="width: 200px; height: auto; float: left; margin: 0 20px 12px 0;"
+  >
+  PI. Steve's research focuses on ...
+</p>
+
+<div style="clear: both;"></div> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p>Description of the group photos.</p> </div> </div>
 
