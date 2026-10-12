@@ -4,14 +4,14 @@
 # Photos go in images/ or images/team/
 
 - name: Quentin Corbel
-  photo: team/thomas-curtright.svg
+  photo: team/team_quentin.jpg
   info: Postdoc, Inbreeding depression (ANR FRIDA)
   
 - name: Elise Jeanne
-  photo: team/george-zweig.svg
+  photo: team/team_elise.jpg
   info: PhD Student, Climate change and fertility
 
 - name: Sarthak Grover
-  photo: team/albert-hibbs.svg
+  photo: team/team_sarthak.jpg
   info: PhD Student, Selfing and stress 
 
