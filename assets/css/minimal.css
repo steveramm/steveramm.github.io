@@ -652,3 +652,26 @@ h2::after {
     grid-column: 1 / -1 !important;
   }
 }
+
+/* Footer — match the main content's outer gutter */
+
+.site-footer {
+  padding-left: var(--page-gutter);
+  padding-right: var(--page-gutter);
+}
+
+/* Copyright aligns with CONTACT */
+.site-footer .footer-copyright {
+  grid-column: 4 / span 5 !important;
+}
+
+/* Mobile — keep the existing stacked layout */
+@media (max-width: 767px) {
+  .site-footer {
+    padding-inline: var(--page-gutter);
+  }
+
+  .site-footer .footer-copyright {
+    grid-column: 1 / -1 !important;
+  }
+}
