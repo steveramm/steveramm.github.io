@@ -663,3 +663,11 @@ footer.site-footer {
     grid-column: 1 / -1;
   }
 }
+
+/* Team member names — match subsection headings */
+.research-item .page-content h2 {
+  font-size: clamp(1.2rem, 1.7vw, 1.6rem);
+  line-height: 1.2;
+  letter-spacing: -0.035em;
+  margin-top: 0;
+}
