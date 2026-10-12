@@ -605,7 +605,11 @@ h2::after {
   margin-top: 0;
 }
 
-/* Footer — enforce the 12-column editorial grid */
+/* Footer — align precisely with the main content grid */
+
+.site-footer {
+  padding-inline: 0;
+}
 
 .site-footer .footer-grid {
   display: grid !important;
@@ -617,51 +621,33 @@ h2::after {
 
 .site-footer .footer-grid:first-child > .footer-contact {
   grid-column: 4 / span 5 !important;
-  min-width: 0;
 }
 
 .site-footer .footer-grid:first-child > .footer-links {
   grid-column: 9 / span 4 !important;
-  min-width: 0;
 }
 
-.site-footer .footer-heading {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  color: var(--ink);
-  font-family: var(--font-heading);
-  font-size: 0.78rem;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.site-footer .footer-contact p,
-.site-footer .footer-links p {
-  max-width: none;
-  margin-bottom: 1rem;
-}
-
+/* Copyright starts at the CONTACT column */
 .site-footer .footer-copyright {
-  grid-column: 1 / -1 !important;
+  grid-column: 4 / span 5 !important;
   padding-top: 1.5rem;
   margin-top: 1rem;
   border-top: 1px solid var(--rule);
 }
 
-/* Mobile — retain the stacked layout */
-
+/* Mobile — preserve stacked layout and original side gutters */
 @media (max-width: 767px) {
+  .site-footer {
+    padding-inline: var(--page-gutter);
+  }
+
   .site-footer .footer-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
     row-gap: 2rem;
   }
 
   .site-footer .footer-grid:first-child > .footer-contact,
-  .site-footer .footer-grid:first-child > .footer-links {
-    grid-column: 1 / -1 !important;
-  }
-
+  .site-footer .footer-grid:first-child > .footer-links,
   .site-footer .footer-copyright {
     grid-column: 1 / -1 !important;
   }
