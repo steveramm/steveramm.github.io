@@ -14,6 +14,12 @@ section_number: "02"
 
 <div style="clear: both;"></div> </div> </div>
 
+<div class="page-content"> <h2 class="team-member-name">Elise Jeanne</h2>
+
+<p> <img src="/images/elise.jpg" alt="Steve Ramm" class="team-photo" >PhD student.</p>
+
+<div style="clear: both;"></div> </div> </div>
+
 <div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p>Description of the group photos.</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> <p>Information about former group members.</p> </div> </div>
