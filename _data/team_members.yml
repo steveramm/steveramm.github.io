@@ -3,18 +3,15 @@
 # Optional: email, website, scholar, github
 # Photos go in images/ or images/team/
 
-- name: George Zweig
-  photo: team/george-zweig.svg
-  info: PhD Student, Quark Model
-
-- name: Albert Hibbs
-  photo: team/albert-hibbs.svg
-  info: PhD Student, Quantum Mechanics
-
-- name: Thomas Curtright
+- name: Quentin Corbel
   photo: team/thomas-curtright.svg
-  info: PhD Student, Quantum Field Theory
+  info: Postdoc, Inbreeding depression (ANR FRIDA)
+  
+- name: Elise Jeanne
+  photo: team/george-zweig.svg
+  info: PhD Student, Climate change and fertility
 
-- name: "This could be you!"
-  photo: rock.jpg
-  info: See openings for more info
+- name: Sarthak Grover
+  photo: team/albert-hibbs.svg
+  info: PhD Student, Selfing and stress 
+
