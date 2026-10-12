@@ -675,7 +675,7 @@ footer.site-footer {
 /* Team photos */
 .team-photo {
   width: 100%;
-  max-width: 200px;
+  max-width: 300px;
   height: auto;
   object-fit: cover;
   float: left;
