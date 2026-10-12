@@ -605,16 +605,20 @@ h2::after {
   margin-top: 0;
 }
 
-/* Footer — match the main container's grid geometry */
+/* Footer — align with the main content grid */
 
-.site-footer {
+footer.site-footer {
   box-sizing: border-box;
   width: 100%;
   margin-top: var(--section-space);
-  padding: 24px var(--page-gutter);
+  padding: 24px 0;
   border-top: 1px solid var(--rule);
   color: var(--muted);
   font-size: 0.78rem;
+}
+
+.site-footer > .site-container {
+  padding: 0 var(--page-gutter);
 }
 
 .site-footer .footer-grid {
@@ -625,40 +629,6 @@ h2::after {
   width: 100%;
   margin: 0;
   padding: 0;
-}
-
-.site-footer .footer-contact {
-  grid-column: 4 / span 5;
-  min-width: 0;
-}
-
-.site-footer .footer-links {
-  grid-column: 9 / span 4;
-  min-width: 0;
-}
-
-.site-footer .footer-heading {
-  margin: 0 0 1rem;
-  color: var(--ink);
-  font-family: var(--font-heading);
-  font-size: 0.78rem;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.site-footer .footer-contact p,
-.site-footer .footer-links p {
-  max-width: none;
-  margin-bottom: 1rem;
-}
-
-.site-footer .footer-copyright {
-  grid-column: 4 / span 5;
-  min-width: 0;
-  margin-top: 1rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--rule);
 }
 
 /* Mobile — stacked blocks, aligned to page gutter */
