@@ -605,10 +605,14 @@ h2::after {
   margin-top: 0;
 }
 
-/* Footer — align precisely with the main content grid */
+/* Footer — 12-column editorial grid */
 
 .site-footer {
-  padding-inline: 0;
+  margin-top: var(--section-space);
+  padding: 24px var(--page-gutter);
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.78rem;
 }
 
 .site-footer .footer-grid {
@@ -621,13 +625,34 @@ h2::after {
 
 .site-footer .footer-grid:first-child > .footer-contact {
   grid-column: 4 / span 5 !important;
+  min-width: 0;
 }
 
 .site-footer .footer-grid:first-child > .footer-links {
   grid-column: 9 / span 4 !important;
+  min-width: 0;
 }
 
-/* Copyright starts at the CONTACT column */
+/* Footer headings */
+.site-footer .footer-heading {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--ink);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* Footer text */
+.site-footer .footer-contact p,
+.site-footer .footer-links p {
+  max-width: none;
+  margin-bottom: 1rem;
+}
+
+/* Copyright — aligned with CONTACT */
 .site-footer .footer-copyright {
   grid-column: 4 / span 5 !important;
   padding-top: 1.5rem;
@@ -635,12 +660,8 @@ h2::after {
   border-top: 1px solid var(--rule);
 }
 
-/* Mobile — preserve stacked layout and original side gutters */
+/* Mobile — retain stacked layout */
 @media (max-width: 767px) {
-  .site-footer {
-    padding-inline: var(--page-gutter);
-  }
-
   .site-footer .footer-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
     row-gap: 2rem;
@@ -648,29 +669,6 @@ h2::after {
 
   .site-footer .footer-grid:first-child > .footer-contact,
   .site-footer .footer-grid:first-child > .footer-links,
-  .site-footer .footer-copyright {
-    grid-column: 1 / -1 !important;
-  }
-}
-
-/* Footer — match the main content's outer gutter */
-
-.site-footer {
-  padding-left: var(--page-gutter);
-  padding-right: var(--page-gutter);
-}
-
-/* Copyright aligns with CONTACT */
-.site-footer .footer-copyright {
-  grid-column: 4 / span 5 !important;
-}
-
-/* Mobile — keep the existing stacked layout */
-@media (max-width: 767px) {
-  .site-footer {
-    padding-inline: var(--page-gutter);
-  }
-
   .site-footer .footer-copyright {
     grid-column: 1 / -1 !important;
   }
