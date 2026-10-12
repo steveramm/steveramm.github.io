@@ -25,3 +25,6 @@ section_number: "01"
 
 <div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
 
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2></h2> </header>
+
+<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
