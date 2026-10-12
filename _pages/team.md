@@ -16,15 +16,17 @@ section_number: "02"
 
 </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p>Description of the group photos.</p> </div> </div>
+<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p></p> </div> </div>
+
+<div class="page-content">
+
+<div class="team-member"> <h2 class="team-member-name">Steve Ramm</h2> <p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo"> Principal Investigator. Bio <a href="/about/">here</a>. </p> <div style="clear: both;"></div> </div>
+
+<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/team/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. </p> <div style="clear: both;"></div> </div>
+
+</div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> <p>Information about former group members.</p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Group photos</h2> </header>
 
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
-
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Alumni</h2> </header>
-
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
 
