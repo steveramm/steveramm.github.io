@@ -599,3 +599,8 @@ h2::after {
 .research-item .section-number {
   display: none !important;
 }
+
+/* Research page — align introduction with page title */
+.research-intro {
+  margin-top: 0;
+}
