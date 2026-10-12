@@ -631,6 +631,24 @@ footer.site-footer {
   padding: 0;
 }
 
+.site-footer .footer-contact {
+  grid-column: 4 / span 5;
+  min-width: 0;
+}
+
+.site-footer .footer-links {
+  grid-column: 9 / span 4;
+  min-width: 0;
+}
+
+.site-footer .footer-copyright {
+  grid-column: 4 / span 5;
+  min-width: 0;
+  margin-top: 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+}
+
 /* Mobile — stacked blocks, aligned to page gutter */
 @media (max-width: 767px) {
   .site-footer .footer-grid {
