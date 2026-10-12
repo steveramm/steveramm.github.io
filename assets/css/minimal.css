@@ -605,7 +605,7 @@ h2::after {
   margin-top: 0;
 }
 
-/* Footer — shared 12-column grid */
+/* Footer — align with the main content grid */
 
 .site-footer {
   box-sizing: border-box;
@@ -623,8 +623,11 @@ h2::after {
   column-gap: var(--grid-gap);
   align-items: start;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
+/* Desktop column placement */
 .site-footer .footer-contact {
   grid-column: 4 / span 5;
   min-width: 0;
@@ -635,6 +638,7 @@ h2::after {
   min-width: 0;
 }
 
+/* Headings */
 .site-footer .footer-heading {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -646,20 +650,23 @@ h2::after {
   text-transform: uppercase;
 }
 
+/* Text */
 .site-footer .footer-contact p,
 .site-footer .footer-links p {
   max-width: none;
   margin-bottom: 1rem;
 }
 
+/* Copyright aligned with CONTACT */
 .site-footer .footer-copyright {
   grid-column: 4 / span 5;
+  min-width: 0;
   margin-top: 1rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--rule);
 }
 
-/* Mobile — stacked footer */
+/* Mobile — stacked layout with the same page gutters */
 @media (max-width: 767px) {
   .site-footer .footer-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
