@@ -16,7 +16,7 @@ section_number: "02"
 
 <div class="page-content"> <h2 class="team-member-name">Elise Jeanne</h2>
 
-<p> <img src="/images/elise.jpg" alt="Steve Ramm" class="team-photo" >PhD student.</p>
+<p> <img src="/images/elise.jpg" alt="Elise" class="team-photo" >PhD student.</p>
 
 <div style="clear: both;"></div> </div> </div>
 
