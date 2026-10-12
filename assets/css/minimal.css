@@ -594,7 +594,8 @@ h2::after {
   letter-spacing: 0.025em;
 }
 
-/* Research page — hide subsection metadata */
-.research-item .page-label > .meta {
-  display: none;
+/* Research page — hide subsection numbering */
+.research-item .meta,
+.research-item .section-number {
+  display: none !important;
 }
