@@ -4,10 +4,14 @@
     <div class="footer-contact">
       <h2 class="footer-heading">Contact</h2>
       <p>
-        {{ "Steve Ramm" }}<br>
-        {{ "UMR CNRS 6553 ECOBIO - Ecosystèmes, Biodiveristé, Evolution" }}<br>
-        {{ "Université de Rennes, France }}
-      </p>
+  {{ "Steve Ramm" }}<br>
+  <a href="https://ecobio.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
+    {{ "UMR CNRS 6553 ECOBIO - Écosystèmes, Biodiversité, Évolution" }}
+  </a><br>
+  <a href="https://www.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
+    {{ "Université de Rennes, France" }}
+  </a>
+</p>
       <p>
         <a href="mailto:{{ site.email }}">{% include icon.html name="envelope" %} {{ site.email }}</a><br>
         {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}">{% include icon.html name="github" %} GitHub</a><br>{% endif %}
