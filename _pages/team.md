@@ -8,17 +8,13 @@ section_number: "02"
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Current team members</h2> </header>
 
-<div class="page-content"> <h2 class="team-member-name">Steve Ramm</h2>
+<div class="page-content">
 
-<p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo" > Principal Investigator. Bio <a href="/about/">here</a> </p>
+<div class="team-member"> <h2 class="team-member-name">Steve Ramm</h2> <p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo"> Principal Investigator. Bio <a href="/about/">here</a>. </p> <div style="clear: both;"></div> </div>
 
-<div style="clear: both;"></div> </div> 
+<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. </p> <div style="clear: both;"></div> </div>
 
-<h2 class="team-member-name">Elise Jeanne</h2>
-
-<p> <img src="/images/elise.jpg" alt="Elise" class="team-photo" >PhD student.</p>
-
-<div style="clear: both;"></div> </div> </div>
+</div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p>Description of the group photos.</p> </div> </div>
 
