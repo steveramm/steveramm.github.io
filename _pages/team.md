@@ -10,7 +10,7 @@ section_number: "02"
 
 <div class="page-content"> <h2 class="team-member-name">Steve Ramm</h2>
 
-<p> <img src="/images/stevenotcropped.jpg" alt="Steve Ramm" class="team-photo" > PI. Steve's research focuses on ... </p>
+<p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo" > PI. Steve's research focuses on ... </p>
 
 <div style="clear: both;"></div> </div> </div>
 
