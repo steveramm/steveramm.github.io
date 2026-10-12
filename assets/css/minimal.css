@@ -593,3 +593,8 @@ h2::after {
   font-size: 0.72rem;
   letter-spacing: 0.025em;
 }
+
+/* Research page — hide subsection metadata */
+.research-item .page-label > .meta {
+  display: none;
+}
