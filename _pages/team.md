@@ -12,7 +12,7 @@ section_number: "02"
 
 <div class="team-member"> <h2 class="team-member-name">Steve Ramm</h2> <p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo"> Principal Investigator. Bio <a href="/about/">here</a>. </p> <div style="clear: both;"></div> </div>
 
-<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. </p> <div style="clear: both;"></div> </div>
+<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/team/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. </p> <div style="clear: both;"></div> </div>
 
 </div> </div>
 
