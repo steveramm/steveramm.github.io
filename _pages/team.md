@@ -4,30 +4,76 @@ layout: page
 permalink: /team/
 ---
 
-{% comment %} PI {% endcomment %} <div class="team-page-grid">
+<div class="page-layout">
 
-<div class="team-member"> <div class="team-member-copy"> <h2>{{ site.name }}</h2> <p class="team-member-role">{{ site.title }}, {{ site.institution }}</p>
+<!-- Page introduction --> <div class="page-grid page-header"> <header class="page-label"> <h1>Team</h1> </header>
 
-<div class="team-links"> {% if site.email %} <a href="mailto:{{ site.email }}" class="icon-link" title="Email" aria-label="Email">{% include icon.html name="envelope" %}</a> {% endif %} {% if site.links.googlescholar and site.links.googlescholar != "" %} <a href="{{ site.links.googlescholar }}" class="icon-link" title="Google Scholar" aria-label="Google Scholar">{% include icon.html name="google-scholar" %}</a> {% endif %} {% if site.links.cv and site.links.cv != "" %} <a href="{{ site.links.cv | prepend: '/' | relativeurl }}" class="icon-link" title="CV" aria-label="CV">{% include icon.html name="cv" %}</a> {% endif %} </div>
+<div class="page-content page-intro"> <p>Our research group investigates the evolutionary ecology of reproduction, adaptation, and mating systems.</p> </div> </div>
 
-{% if site.data.pi[0].education %} <ul> {% for education in site.data.pi[0].education %} <li>{{ education | replace: "-", "–" }}</li> {% endfor %} </ul> {% endif %} </div>
+<!-- Team members and group photographs --> <div class="team-page-grid">
 
-<img src="{{ site.photo | prepend: '/images/' | relative_url }}" class="team-member-photo" alt="{{ site.name }}" width="240" loading="lazy"> </div>
+{% comment %} Principal investigator {% endcomment %} <article class="page-grid team-member">
 
-{% comment %} Add individual profiles and group photos here, in the desired order. {% endcomment %}
+<div class="team-member-photo-wrap"> {% if site.photo %} <img src="{{ site.photo | prepend: '/images/' | relative_url }}" class="team-member-photo" alt="Portrait of {{ site.name }}" loading="lazy" > {% endif %} </div>
 
-{% for item in site.data.team_page %} {% if item.type == "member" %} <div class="team-member"> <div class="team-member-copy"> <h2>{{ item.name }}</h2> <p class="team-member-role">{{ item.info }}</p>
+<div class="team-member-copy"> <h2>{{ site.name }}</h2>
 
-<div class="team-links"> {% if item.email %} <a href="mailto:{{ item.email }}" class="icon-link" title="Email" aria-label="Email">{% include icon.html name="envelope" %}</a> {% endif %} {% if item.website %} <a href="{{ item.website }}" class="icon-link" title="Website" aria-label="Website">{% include icon.html name="house" %}</a> {% endif %} {% if item.scholar %} <a href="{{ item.scholar }}" class="icon-link" title="Google Scholar" aria-label="Google Scholar">{% include icon.html name="google-scholar" %}</a> {% endif %} {% if item.github %} <a href="{{ item.github }}" class="icon-link" title="GitHub" aria-label="GitHub">{% include icon.html name="github" %}</a> {% endif %} </div>
+<p class="team-member-role"> {{ site.title }}{% if site.institution %}, {{ site.institution }}{% endif %} </p>
 
-{% if item.description %} <div>{{ item.description | markdownify }}</div> {% endif %} </div>
+<div class="team-links"> {% if site.email %} <a href="mailto:{{ site.email }}">Email</a> {% endif %}
 
-<img src="{{ item.photo | prepend: '/images/' | relative_url }}" class="team-member-photo" alt="{{ item.name }}" loading="lazy"> </div>
+{% if site.links.googlescholar and site.links.googlescholar != "" %} <a href="{{ site.links.googlescholar }}">Google Scholar</a> {% endif %}
 
-{% elsif item.type == "groupphoto" %} <figure class="team-group-photo"> <img src="{{ item.photo | prepend: '/images/' | relativeurl }}" alt="{{ item.alt | default: item.caption }}" loading="lazy"> <figcaption>{{ item.caption }}</figcaption> </figure> {% endif %} {% endfor %}
+{% if site.links.cv and site.links.cv != "" %} <a href="{{ site.links.cv | prepend: '/' | relative_url }}">CV</a> {% endif %} </div>
+
+{% if site.data.pi[0].education %} <ul class="team-education"> {% for education in site.data.pi[0].education %} <li>{{ education | replace: "-", "–" }}</li> {% endfor %} </ul> {% endif %} </div>
+
+</article>
+
+{% comment %} Current students and postdocs {% endcomment %} {% for member in site.data.team_members %}
+
+<article class="page-grid team-member">
+
+<div class="team-member-photo-wrap"> {% if member.photo %} <img src="{{ member.photo | prepend: '/images/' | relative_url }}" class="team-member-photo" alt="Portrait of {{ member.name }}" loading="lazy" > {% endif %} </div>
+
+<div class="team-member-copy"> <h2>{{ member.name }}</h2>
+
+{% if member.info %} <p class="team-member-role">{{ member.info }}</p> {% endif %}
+
+<div class="team-links"> {% if member.email %} <a href="mailto:{{ member.email }}">Email</a> {% endif %}
+
+{% if member.website %} <a href="{{ member.website }}">Website</a> {% endif %}
+
+{% if member.scholar %} <a href="{{ member.scholar }}">Google Scholar</a> {% endif %}
+
+{% if member.github %} <a href="{{ member.github }}">GitHub</a> {% endif %} </div>
+
+{% if member.description %} <div class="team-member-description"> {{ member.description | markdownify }} </div> {% endif %} </div>
+
+</article>
+
+{% endfor %}
+
+{% comment %} Group photographs can be placed anywhere in this grid, between profiles or after all team members. {% endcomment %}
+
+<figure class="team-group-photo"> <img src="{{ '/images/team/teamgroup.jpg' | relativeurl }}" alt="Members of the research group" loading="lazy" > <figcaption> The research group at [event or location]. </figcaption> </figure>
 
 </div>
 
-{% if site.data.alumni.size > 0 %} <section class="team-alumni"> <h2>Alumni</h2> <ul> {% for member in site.data.alumni %} <li> <strong>{{ member.name }}</strong> {% if member.duration %} — {{ member.duration }}{% endif %} {% if member.info %} — {{ member.info }}{% endif %} </li> {% endfor %} </ul> </section> {% endif %}
+<!-- Alumni --> {% if site.data.alumni.size > 0 %} <section class="page-section team-alumni"> <div class="page-grid">
 
-<section class="team-administration"> <h2>Administrative support</h2> <p><a href="mailto:exampleemail@gmail.com">Example staff</a> provides administrative support for our group and others.</p> </section>
+<header class="page-label"> <h2>Alumni</h2> </header>
+
+<div class="page-content"> <ul> {% for member in site.data.alumni %} <li> <strong>{{ member.name }}</strong> {% if member.duration %} — {{ member.duration }}{% endif %} {% if member.info %} — {{ member.info }}{% endif %} </li> {% endfor %} </ul> </div>
+
+</div> </section> {% endif %}
+
+<!-- Administrative support --> <section class="page-section team-administration"> <div class="page-grid">
+
+<header class="page-label"> <h2>Administrative support</h2> </header>
+
+<div class="page-content"> <p> <a href="mailto:exampleemail@gmail.com">Example staff</a> provides administrative support for our group and others. </p> </div>
+
+</div> </section>
+
+</div>
