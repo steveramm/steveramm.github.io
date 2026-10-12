@@ -671,3 +671,13 @@ footer.site-footer {
   letter-spacing: -0.035em;
   margin-top: 0;
 }
+
+/* Team photos */
+.team-photo {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  object-fit: cover;
+  float: left;
+  margin: 0 20px 12px 0;
+}
