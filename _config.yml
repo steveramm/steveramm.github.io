@@ -4,20 +4,20 @@
 name: "Ramm lab"
 title: "Evolutionary biologist"
 institution: "UMR CNRS 6553 ECOBIO, Université de Rennes"
-email: richard@university.edu
+email: steven.ramm@univ-rennes.fr
 photo: steve_not_cropped.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: "https://scholar.google.co.uk/citations?user=cuXvFT0AAAAJ&hl=en"
+  github: 
+  researchgate: 
   orcid: ""
   twitter: ""
   linkedin: ""
-  cv: ""  # e.g., "papers/cv.pdf"
+  cv: "https://ecobio.univ-rennes.fr/interlocuteurs/steven-ramm"  # e.g., "papers/cv.pdf"
 
 # ============================================================
 # STEP 3: Site Settings
