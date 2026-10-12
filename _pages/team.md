@@ -20,7 +20,7 @@ section_number: "02"
 
 <div class="page-content">
 
-<p> <img src="/images/team/group2026.jpeg" alt="May 2026" class="team-photo"> May 2026.</p> <div style="clear: both;"></div> </div>
+<p><img src="/images/team/group2026.jpeg" alt="May 2026" class="team-photo"> May 2026.</p> <div style="clear: both;"></div> </div>
 
 </div> </div>
 
