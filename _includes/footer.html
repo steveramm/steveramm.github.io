@@ -14,15 +14,6 @@
       </p>
     </div>
 
-    <div class="footer-links">
-      <h2 class="footer-heading">Links</h2>
-      <p>
-        {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}">{% include icon.html name="google-scholar" %} Google Scholar</a><br>{% endif %}
-        {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}">{% include icon.html name="researchgate" %} ResearchGate</a><br>{% endif %}
-        <a href="https://github.com/sbryngelson/academic-website-template">{% include icon.html name="github" %} Use this template!</a>
-      </p>
-    </div>
-
     <div class="footer-copyright">
       &copy; {{ "now" | date: "%Y" }} {{ site.name | escape }}
     </div>
