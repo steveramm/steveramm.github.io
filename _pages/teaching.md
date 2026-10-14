@@ -5,8 +5,7 @@ permalink: /teaching/
 ---
 <div class="page-grid research-intro"> <div class="page-label"></div>
 
-<div class="page-content"> <p class="research-lead">My overall
-teaching philosophy is to prioritise concepts over facts, and to encourage
+<div class="page-content"> <p class="research-lead">My teaching philosophy is to prioritise concepts over facts, and to encourage
 students to engage with not just scientific knowledge but also the process of
 producing it. I want people to graduate with a broadly-applicable education that trains analytical and
 communication skills alongside a thorough understanding of biology.</p> </div> </div>
