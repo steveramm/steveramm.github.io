@@ -5,20 +5,14 @@ permalink: /publications/
 section_number: "03"
 ---
 
-<input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
+<input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year..."
 
-<div class="section-card" id="pubList">
+<div id="pubList">
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number"></p> <h2>Preprints</h2> </header>
+<section class="page-grid research-item"> <header class="page-label"> <h2>Preprints</h2> </header> <div class="page-content"> {% bibliography --query @unpublished %} </div> </section>
 
-{% bibliography --query @unpublished %}
-</div> </div>
+<section class="page-grid research-item"> <header class="page-label"> <h2>Refereed Journal Articles</h2> </header> <div class="page-content"> {% bibliography --query @article %} </div> </section>
 
-<h2>Refereed Journal Articles</h2>
+<section class="page-grid research-item"> <header class="page-label"> <h2>Refereed Conference Proceedings</h2> </header> <div class="page-content"> {% bibliography --query @inproceedings %} </div> </section>
 
-{% bibliography --query @article %}
-
-<h2>Refereed Conference Proceedings</h2>
-
-{% bibliography --query @inproceedings %}
 </div>
