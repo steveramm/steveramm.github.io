@@ -74,5 +74,4 @@ Organiser of the DZG Graduate Meeting in Evolutionary Biology (2022, Bielefeld, 
 Plenary Speaker at the 13th European Congress of Andrology (Stockholm, 2024), German Andrological Society (Saarbrucken, 2016) and invited speaker at various meetings, including the Society for the Study of Reproduction (New Orleans, 2018), International Society for Behavioural Ecology (ISBE) Congress (New York, 2014), Central European Meeting on Genes, Gene Expression and Behaviour (Nové Hrady, 2013) and the Gordon Research Conference on Fertilization (New Hampshire, 2013). Also open to offers from not-new conference locations.
 </p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2></h2> </header>
 
