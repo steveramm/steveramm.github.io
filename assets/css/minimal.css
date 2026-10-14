@@ -691,3 +691,47 @@ footer.site-footer {
   float: left;
   margin: 0 20px 12px 0;
 }
+
+/* Publications page */
+
+.publications-page { padding-top: clamp(48px, 8vw, 104px); }
+
+.publications-page .page-header { margin-bottom: clamp(64px, 10vw, 136px); }
+
+.publications-page .publications-search { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--grid-gap); margin-bottom: 2rem; }
+
+.publications-page .pub-search { grid-column: 4 / span 9; box-sizing: border-box; width: 100%; padding: 0.8rem 0; border: 0; border-bottom: 1px solid var(--rule); border-radius: 0; background: transparent; color: var(--ink); font: inherit; outline-offset: 4px; }
+
+.publications-page .pub-search::placeholder { color: var(--muted); }
+
+.publications-page .publication-section { margin-block: 0; padding-block: clamp(36px, 5vw, 68px); border-top: 1px solid var(--rule); }
+
+.publications-page .publication-section:last-child { border-bottom: 1px solid var(--rule); }
+
+.publications-page .publication-section .page-label h2 { margin-top: 0.65rem; font-size: clamp(1.2rem, 1.7vw, 1.6rem); line-height: 1.2; letter-spacing: -0.035em; }
+
+.publications-page .publication-list { min-width: 0; }
+
+/* Jekyll Scholar bibliography output */
+
+.publications-page .publication-list ol.bibliography { margin: 0; padding: 0; list-style: none; }
+
+.publications-page .publication-list ol.bibliography > li { margin: 0; padding: 1.25rem 0; border-bottom: 1px solid var(--rule); }
+
+.publications-page .publication-list ol.bibliography > li:first-child { padding-top: 0; }
+
+.publications-page .publication-list ol.bibliography > li:last-child { border-bottom: 0; padding-bottom: 0; }
+
+.publications-page .publication-list p { max-width: 68ch; }
+
+@media (max-width: 767px) { .publications-page { padding-top: 40px; }
+
+.publications-page .page-header { margin-bottom: 64px; }
+
+.publications-page .publications-search { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+.publications-page .pub-search { grid-column: 1 / -1; }
+
+.publications-page .publication-section { row-gap: 1rem; padding-block: 36px; }
+
+.publications-page .publication-section .page-label { margin-bottom: 0; } }
