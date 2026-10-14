@@ -59,9 +59,20 @@ Ph.D., University of Liverpool (2006)
 B.Sc. (Hons), first class, Genetics with Basic Medical Sciences, University College London (2002)
 </p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Selfing and mating system evolution</h2> </header>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Research activities</h2> </header>
 
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+<div class="page-content"> <p>Member of two ESEB Special Topic Networks on The Evolutionary Ecology of Thermal Fertility Limits and Socially Transferred Materials.
+<br><br>
+Organiser of the Simultaneously Hermaphroditic Organisms Workshop (SHOW) in 2024 (Rennes), 2016 (Bielefeld) and 2011 (Basel, Schärer group).
+<br><br>
+Organiser of the International Macrostomum Meeting in 2017 (Bielefeld) and 2010 (Basel, Schärer group).
+<br><br>
+Organiser of conference symposia at ESEB 2025 (Conflict, cooperation and the evolution of socially transferred materials, with J. Koene & M. F. Wolfner), and ECBB 2016 (Proteomics meets Behaviour, with M. Thoß).
+<br><br>
+Organiser of the DZG Graduate Meeting in Evolutionary Biology (2022, Bielefeld, with A. Sanchez-Tojar).
+<br><br>
+Plenary Speaker at the 13th European Congress of Andrology (Stockholm, 2024), German Andrological Society (Saarbrucken, 2016) and invited speaker at various meetings, including the Society for the Study of Reproduction (New Orleans, 2018), International Society for Behavioural Ecology (ISBE) Congress (New York, 2014), Central European Meeting on Genes, Gene Expression and Behaviour (Nové Hrady, 2013) and the Gordon Research Conference on Fertilization (New Hampshire, 2013). Also open to offers from not-new conference locations.
+</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2></h2> </header>
 
