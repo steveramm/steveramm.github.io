@@ -35,8 +35,6 @@ Editorial Board Member, BMC Ecology & Evolution
 Editorial Board Member, Journal of Evolutionary Biology (2018-2021)
   <br><br>
 Editorial Board Member, Molecular Human Reproduction (2015-2018)
-<br><br>
-
 </p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Previous positions</h2> </header>
@@ -52,9 +50,14 @@ Human Frontier Science Program Short-Term Fellow, Institute of Zoology, Universi
 Postdoc, Mammalian Behaviour & Evolution Group, University of Liverpool, UK (2006-2009)
 </p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sex allocation</h2> </header>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Qualifications</h2> </header>
 
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+<div class="page-content"> <p>HDR (Habilitation à diriger des recherches), Université de Rennes (2025)
+<br><br>
+Ph.D., University of Liverpool (2006)
+<br><br>
+B.Sc. (Hons), first class, Genetics with Basic Medical Sciences, University College London (2002)
+</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Selfing and mating system evolution</h2> </header>
 
