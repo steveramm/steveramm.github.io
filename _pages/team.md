@@ -20,7 +20,7 @@ section_number: "02"
 
 </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p></p> 
+<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"><p></p> 
 
 <div class="page-content">
 
@@ -29,11 +29,6 @@ section_number: "02"
 <p><img src="/images/team/group2025.jpeg" alt="May 2025" class="group-photo">May 2025. Elise, Emma, Sarthak, Sébastien, Lucas, Steve, Eva.</p> <div style="clear: both;"></div> </div>
 
 <p><img src="/images/team/groupfeb2016.jpg" alt="February 2016" class="group-photo">February 2016. Bahar, Michael, Yumi, Steve, Athina.</p> <div style="clear: both;"></div> </div>
-
-
-</div> </div>
-
-</div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> <p>Information about former group members.</p> </div> </div>
 
