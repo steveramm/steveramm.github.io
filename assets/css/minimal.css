@@ -692,3 +692,19 @@ footer.site-footer {
   margin: 0 20px 12px 0;
 }
 
+/* TEMPORARY DEBUG: publications page */
+#pubList {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  position: relative !important;
+  height: auto !important;
+  min-height: 200px;
+  overflow: visible !important;
+  color: #191919 !important;
+}
+
+#pubList * {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
