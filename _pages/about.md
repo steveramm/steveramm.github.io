@@ -8,7 +8,9 @@ section_number: "05"
 
 <div class="page-grid research-intro"> <div class="page-label"></div>
 
-<div class="page-content"> <p class="research-lead">Steve Ramm<br>Evolutionary biologist<br>
+<div class="page-content"> 
+  <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo">
+<p class="research-lead">Steve Ramm<br>Evolutionary biologist<br>
 
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email" aria-label="Email">{% include icon.html name="envelope" %}</a>{% endif %}
 {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.links.cv | prepend: '/' | relative_url }}" class="icon-link" title="CV" aria-label="CV">{% include icon.html name="cv" %}</a>{% endif %}
