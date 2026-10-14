@@ -2,9 +2,9 @@
 title: "About"
 layout: page
 permalink: /about/
+section_number: "05"
 ---
 
-# About
 
 <div class="section-card">
 <div class="pi-card">
@@ -18,47 +18,28 @@ permalink: /about/
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" class="icon-link" title="Google Scholar" aria-label="Google Scholar">{% include icon.html name="google-scholar" %}</a>{% endif %}
 {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}" class="icon-link" title="GitHub" aria-label="GitHub">{% include icon.html name="github" %}</a>{% endif %}
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate" aria-label="ResearchGate">{% include icon.html name="researchgate" %}</a>{% endif %}
-</div>
-{% if site.data.pi[0].education %}
-<ul style="margin-top: var(--space-4);">
-{% for education in site.data.pi[0].education %}
-<li>{{ education | replace: "-","&#8211;" }}</li>
-{% endfor %}
-</ul>
-{% endif %}
-</div>
-</div>
-</div>
 
-{% if site.data.grants %}
-<div class="section-card">
-<h3>Grants</h3>
-<ul>
-{% for grant in site.data.grants %}
-<li>{{ grant.name }}</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
+<div class="page-grid research-intro"> <div class="page-label"></div>
 
-{% if site.data.awards %}
-<div class="section-card">
-<h3>Awards</h3>
-<ul>
-{% for award in site.data.awards %}
-<li>{{ award.name | replace: "-","&#8211;" }}</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
+<div class="page-content"> <p class="research-lead">Bridging organismal and molecular perspectives on adaptive evolution and plasticity, our research programme focuses on the evolutionary ecology of reproduction.</p> </div> </div>
 
-{% if site.data.funders %}
-<div class="section-card">
-<h4>Sponsors</h4>
-<div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
-{% for funder in site.data.funders %}
-<a href="{{ funder.url }}" target="_blank"><img src="{{ funder.image | prepend: '/images/' | relative_url }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>
-{% endfor %}
-</div>
-</div>
-{% endif %}
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.01</p> <h2>Climate change and fertility</h2> </header>
+
+<div class="page-content"> <p>The ability to maintain fertility under environmental stress is a key determinant of population persistence. However, we still lack a predictive framework for how reproductive function evolves under environmental change, limiting our ability to forecast adaptive potential in natural populations. We're using both single-generation and experimental evolution approaches to better understand the capacity of organisms to adapt to chronic and acute climate change stressors - with a current emphasis on temperature and salinity impacts in _Macrostomum_ flatworms - alongside various meta-analysis projects to establish general principles of climate change adaptation.
+</p> </div> </div>
+
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sperm competition, sexual selection and sexual conflict</h2> </header>
+
+<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sex allocation</h2> </header>
+
+<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Selfing and mating system evolution</h2> </header>
+
+<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2></h2> </header>
+
+<div class="page-content"> <p>If you might be interested in joining the lab to work in one or more of these areas, don't hesitate to get in touch to discuss potential projects and funding options for PhD or postdoctoral research. We're also keen to host M1 and M2 internships - please get in touch as early as possible to discuss the possibilities.</p> </div> </div>
