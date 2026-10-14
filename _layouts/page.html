@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="fade-in-section page-layout">
+<div class="page-layout{% unless page.permalink == '/publications/' %} fade-in-section{% endunless %}">
 
 <header class="page-grid page-header"> <div class="page-label"> <p class="section-number">{{ page.section_number }}</p> <h1>{{ page.title }}</h1> </div>
 
