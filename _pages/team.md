@@ -24,7 +24,12 @@ section_number: "02"
 
 <div class="page-content">
 
-<p><img src="/images/team/group2026.jpeg" alt="May 2026" class="group-photo"> May 2026.</p> <div style="clear: both;"></div> </div>
+<p><img src="/images/team/group2026.jpeg" alt="May 2026" class="group-photo">May 2026. Top: Shaman, Elise, Clara, Steve, Léo; bottom: Sarthak, Quentin, Kélian. </p> <div style="clear: both;"></div> </div>
+
+<p><img src="/images/team/group2025.jpeg" alt="May 2025" class="group-photo">May 2025. Elise, Emma, Sarthak, Sébastien, Lucas, Steve, Eva.</p> <div style="clear: both;"></div> </div>
+
+<p><img src="/images/team/group2016.jpeg" alt="February 2016" class="group-photo">February 2016. Bahar, Michael, Yumi, Steve, Athina.</p> <div style="clear: both;"></div> </div>
+
 
 </div> </div>
 
