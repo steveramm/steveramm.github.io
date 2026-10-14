@@ -18,5 +18,5 @@ section_number: "03"
 
 {% bibliography --query @article %}
 
-</div> </div>
+</div> 
 
