@@ -5,9 +5,7 @@ permalink: /publications/
 section_number: "03"
 ---
 
-<div class="publications-search">
-  <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
-</div>
+<input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
 <div id="pubList">
 
