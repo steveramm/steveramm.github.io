@@ -44,7 +44,6 @@
 
   <div class="pub-actions">
     {% if has_pdf %}<a href="{{ entry.file | prepend: '/papers/' | relative_url }}" target="_blank" class="btn-pill btn-pdf">PDF</a>{% endif %}
-    {% if arxiv_id and arxiv_id != "" %}<a href="https://arxiv.org/abs/{{ arxiv_id }}" target="_blank" class="btn-pill btn-arxiv">arXiv</a>{% endif %}
     {% if entry.doi and entry.doi != arxiv_id %}<a href="https://doi.org/{{ entry.doi }}" target="_blank" class="btn-pill btn-doi">DOI</a>{% endif %}
     {% if entry.url %}<a href="{{ entry.url }}" target="_blank" class="btn-pill btn-link">Link</a>{% endif %}
     {% if entry.code %}<a href="{{ entry.code }}" target="_blank" class="btn-pill btn-code">Code</a>{% endif %}
