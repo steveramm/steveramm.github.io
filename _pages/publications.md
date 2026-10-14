@@ -11,6 +11,4 @@ section_number: "03"
 
 <section class="page-grid research-item"> <header class="page-label"> <h2>Refereed Journal Articles</h2> </header> <div class="page-content"> {% bibliography --query @article %} </div> </section>
 
-<section class="page-grid research-item"> <header class="page-label"> <h2>Refereed Conference Proceedings</h2> </header> <div class="page-content"> {% bibliography --query @inproceedings %} </div> </section>
-
 </div>
