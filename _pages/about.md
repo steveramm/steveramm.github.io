@@ -6,18 +6,17 @@ section_number: "05"
 ---
 
 
-Steve Ramm
-Evolutionary Biologist
+<div class="page-grid research-intro"> <div class="page-label"></div>
+
+<div class="page-content"> <p class="research-lead">Steve Ramm<br>Evolutionary biologist<br>
 
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email" aria-label="Email">{% include icon.html name="envelope" %}</a>{% endif %}
 {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.links.cv | prepend: '/' | relative_url }}" class="icon-link" title="CV" aria-label="CV">{% include icon.html name="cv" %}</a>{% endif %}
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" class="icon-link" title="Google Scholar" aria-label="Google Scholar">{% include icon.html name="google-scholar" %}</a>{% endif %}
 {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}" class="icon-link" title="GitHub" aria-label="GitHub">{% include icon.html name="github" %}</a>{% endif %}
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate" aria-label="ResearchGate">{% include icon.html name="researchgate" %}</a>{% endif %}
+</p> </div> </div>
 
-<div class="page-grid research-intro"> <div class="page-label"></div>
-
-<div class="page-content"> <p class="research-lead">Bridging organismal and molecular perspectives on adaptive evolution and plasticity, our research programme focuses on the evolutionary ecology of reproduction.</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.01</p> <h2>Climate change and fertility</h2> </header>
 
