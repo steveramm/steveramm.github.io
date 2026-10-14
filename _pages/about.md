@@ -18,9 +18,25 @@ section_number: "05"
 </p> </div> </div>
 
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.01</p> <h2>Climate change and fertility</h2> </header>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.01</p> <h2>Responsibilities</h2> </header>
 
-<div class="page-content"> <p>The ability to maintain fertility under environmental stress is a key determinant of population persistence. However, we still lack a predictive framework for how reproductive function evolves under environmental change, limiting our ability to forecast adaptive potential in natural populations. We're using both single-generation and experimental evolution approaches to better understand the capacity of organisms to adapt to chronic and acute climate change stressors - with a current emphasis on temperature and salinity impacts in _Macrostomum_ flatworms - alongside various meta-analysis projects to establish general principles of climate change adaptation.
+<div class="page-content"> <p>Co-animation of the ECOBIO research theme EVO-ADAPT 
+  <br><br>
+Co-head of the Master BEE programme EFCE: functional, behavioural and evolutionary ecology 
+  <br><br>
+Member of ESEB Council 
+  <br><br>
+Godfrey Hewitt Mobility Award Committee Member (ESEB)
+  <br><br>
+Elected Speaker, Evolutionary Biology section of the German Zoological Society (2021-2025)
+  <br><br>
+Editorial Board Member, BMC Ecology & Evolution
+  <br><br>
+Editorial Board Member, Journal of Evolutionary Biology (2018-2021)
+  <br><br>
+Editorial Board Member, Molecular Human Reproduction (2015-2018)
+<br><br>
+
 </p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sperm competition, sexual selection and sexual conflict</h2> </header>
