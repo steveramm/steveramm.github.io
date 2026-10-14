@@ -39,9 +39,18 @@ Editorial Board Member, Molecular Human Reproduction (2015-2018)
 
 </p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sperm competition, sexual selection and sexual conflict</h2> </header>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Previous positions</h2> </header>
 
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+<div class="page-content"> <p>Chaire de Recherche Rennes Métropole and Chaire de Professeur Junior, Université de Rennes, France (2022-2026)
+<br><br>
+Wissenschaftlicher Mitarbeiter (PI) in the Department of Evolutionary Biology, Bielefeld University, Germany (2012-2022)
+<br><br>
+Marie Curie Intra-European Fellow, Zoological Institute, University of Basel, Switzerland (2010-2012)
+<br><br>
+Human Frontier Science Program Short-Term Fellow, Institute of Zoology, University of Innsbruck, Austria (2009)
+<br><br>
+Postdoc, Mammalian Behaviour & Evolution Group, University of Liverpool, UK (2006-2009)
+</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sex allocation</h2> </header>
 
