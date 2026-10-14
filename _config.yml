@@ -66,8 +66,8 @@ nav_pages:
 # Your name is bolded in the publication list. Write it exactly as it
 # appears in the rendered list ("Last, F. M."); list the longest form first.
 scholar:
-  last_name: Feynman
-  first_name: ["R. P.", "R."]
+  last_name: Ramm
+  first_name: ["S. A.", "S."]
   style: citesty
   locale: en
   source: /assets/
