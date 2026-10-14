@@ -14,11 +14,9 @@ section_number: "03"
 {% bibliography --query @unpublished %}
 </div> </div>
 
-<h2>Refereed Journal Articles</h2>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number"></p> <h2>Published articles</h2> </header>
 
 {% bibliography --query @article %}
 
-<h2>Refereed Conference Proceedings</h2>
+</div> </div>
 
-{% bibliography --query @inproceedings %}
-</div>
