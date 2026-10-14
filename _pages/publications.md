@@ -12,7 +12,7 @@ section_number: "03"
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number"></p> <h2>Preprints</h2> </header>
 
 {% bibliography --query @unpublished %}
-</div> </div>
+</div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number"></p> <h2>Published articles</h2> </header>
 
