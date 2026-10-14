@@ -12,7 +12,11 @@ section_number: "02"
 
 <div class="team-member"> <h2 class="team-member-name">Steve Ramm</h2> <p> <img src="/images/steve_not_cropped.jpg" alt="Steve Ramm" class="team-photo"> Principal Investigator. Bio <a href="/about/">here</a>. </p> <div style="clear: both;"></div> </div>
 
-<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/team/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. </p> <div style="clear: both;"></div> </div>
+<div class="team-member"> <h2 class="team-member-name">Quentin Corbel</h2> <p> <img src="/images/team/quentin.jpg" alt="Quentin Corbel" class="team-photo"> Postdoc. Quentin is working on the ANR project FRIDA, in collaboration with Sylvain Glémin at Ecobio and collaborators in Montpellier, Perpignan and Lyon. Together we are interested in using two selfing animal species to decipher the relative contributions of genetic and epigenetic effects to a fundamental phenomenon in evolutionary biology, inbreeding depression. Quentin joins us following a recent postdoc at CNRS Moulis and a PhD at the University of Valencia on adaptive reproductive plasticity and life-history trade-offs in _Drosophila_. </p> <div style="clear: both;"></div> </div>
+
+<div class="team-member"> <h2 class="team-member-name">Elise Jeanne</h2> <p> <img src="/images/team/elise.jpg" alt="Elise Jeanne" class="team-photo"> PhD student. As part of the project “Fertility in a Changing World”, Elise is investigating plastic and evolutionary responses of flatworms to altered thermal and salinity environments. Her project aims to clarify sex differences in environmentally-imposed fertility limits and test the interaction between natural and sexual selection in driving adaptation to climate change.</p> <div style="clear: both;"></div> </div>
+
+<div class="team-member"> <h2 class="team-member-name">Sarthak Grover</h2> <p> <img src="/images/team/sarthak.jpg" alt="Sarthak grover" class="team-photo"> PhD student. In his project “Selfing Under Stress”, Sarthak is investigating potential links between environmental variation, inbreeding depression and mating system expression. Sarthak initially joined the lab in Bielefeld in 2022 while he was a BS/MS student at IISER Mohali, completing his Master thesis research on mating system expression and sex allocation in the flatworm _Macrostomum hystricinum_. </p> <div style="clear: both;"></div> </div>
 
 </div> </div>
 
