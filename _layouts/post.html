@@ -2,13 +2,14 @@
 layout: default
 ---
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
-  <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-  <p class="text-muted" style="font-size: 0.875rem;">
-    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-    {% if page.author %} &middot; <span itemprop="author">{{ page.author }}</span>{% endif %}
-  </p>
-  <div itemprop="articleBody">
-    {{ content }}
-  </div>
+<article class="page-layout blog-post" itemscope itemtype="https://schema.org/BlogPosting">
+
+<header class="page-header page-grid blog-post-header"> <div class="page-label"> <p class="meta">BLOG / {{ page.date | date: "%Y" }}</p> <h1 class="blog-post-title" itemprop="headline">{{ page.title | escape }}</h1> <p class="blog-post-meta"> <time datetime="{{ page.date | datetoxmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> {% if page.author %}<span> · {{ page.author | escape }}</span>{% endif %} </p> </div> </header>
+
+<div class="page-grid page-body blog-post-body"> <div class="page-label"> <p class="meta">ARTICLE</p> </div>
+
+<div class="page-content" itemprop="articleBody"> {{ content }} </div> </div>
+
+<footer class="blog-post-footer"> <a href="{{ '/blog/' | relative_url }}">← Back to the blog</a> </footer>
+
 </article>
