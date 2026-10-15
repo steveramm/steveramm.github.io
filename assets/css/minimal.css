@@ -815,6 +815,20 @@ footer.site-footer {
   display: block !important;
 }
 
+/* Blog previews */
+
+.blog-item .blog-preview {
+  margin-top: 0.65rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  max-width: 68ch;
+}
+
+.blog-item .blog-preview p {
+  margin: 0;
+}
+
 /* Show dates on the blog index */
 .blog-item .section-number {
   display: block !important;
