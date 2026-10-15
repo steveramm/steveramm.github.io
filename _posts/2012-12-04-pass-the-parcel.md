@@ -1,0 +1,17 @@
+---
+title: "pass the parcel"
+date: 2012-12-04
+categories: 
+  - "new-paper"
+---
+
+[![poecilimon]({{ '/assets/images/pass-the-parcel/poecilimon.jpg' | relative_url }})]({{ '/assets/images/pass-the-parcel/poecilimon.jpg' | relative_url }}) In most animals with internal fertilization, insemination occurs at the time of mating. There are exceptions, however, one of which occurs in bushcrickets. Rather than depositing sperm into the female reproductive tract during mating, a male bushcricket instead delivers his ejaculate wrapped in a large mass of protein that sticks to the outside of the female's body and from which the sperm only later migrate. This raises the question of who determines the timing of "true" sperm transfer from the external mass (known as a "spermatophore") to the female reproductive tract? Is it the male, or the female? The question of control over such events has become a pertinent one, since evolutionary biologists increasingly tend to view reproductive interactions as riven with sexual conflict, where the interests of the male and female will rarely coincide precisely. In a new study published this week in _Behavioral Ecology and Sociobiology_ I worked with [Klaus Reinhold](http://www.uni-bielefeld.de/biologie/Evolutionsbiologie/01-reinhold.html) to analyse patterns of sperm transfer in one particular bushcricket species, _Poecilimon veluchianus_. We can use this species to study the control of sperm transfer, since it is actually split into two "sub-species" that have [very different patterns of sperm transfer](http://dx.doi.org/10.1111/j.1095-8312.1994.tb01006.x). By carefully crossing the different sub-species, we can find out whether the sperm transfer dynamics of a particular mating pair resemble those of the sub-species of the male involved or the sub-species of the female involved. Our results suggest that they always resemble whichever sub-species the male of a particular pair belongs to, indicating a high degree of male control over sperm transfer dynamics. Whether this suits, or is counter to, female interests in this case remains to be determined, but would now make an interesting question for future research, as would the origins of the striking sub-species differences in sperm transfer dynamics. **Update:** see also the University's press release about the paper [here](http://ekvv.uni-bielefeld.de/blog/uniaktuell/entry/heuschrecken_männchen_haben_das_sagen) (German) and [here](http://ekvv.uni-bielefeld.de/blog/uninews/entry/male_bushcrickets_are_in_charge) (English). **Media coverage:** [Wired](http://www.wired.co.uk/news/archive/2012-12/17/bushcricket-sex) (UK), [Science 2.0](http://www.science20.com/news_articles/male_bushcrickets_are_boss_spermatophores_can_be_40_percent_their_bodyweight-99109) (US), [Der Standard](http://derstandard.at/1355459906709/Maennchen-bestimmen-Timing-der-Paarung) (AT).
+
+```
+Reinhold K & Ramm SA. 2013. Male control of sperm transfer 
+dynamics in a spermatophore-donating bushcricket.
+Behavioral Ecology & Sociobiology, doi:10.1007/s00265-012-1459-4
+
+```
+
+Image: [_Poecilimon veluchianus veluchianus_ Ramme, 1933](http://orthoptera.speciesfile.org/common/basic/ShowImage.aspx?TaxonNameID=1138036&ImageID=148471) from [Orthoptera Species File](http://orthoptera.speciesfile.org), licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) [](http://dx.doi.org/10.1007/s00265-012-1459-4)

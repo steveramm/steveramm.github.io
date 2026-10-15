@@ -1,0 +1,18 @@
+---
+title: "two PhD positions available"
+date: 2013-09-25
+---
+
+Two Ph.D. positions are available in the Department of Evolutionary Biology at Bielefeld University in Germany to study the functional and evolutionary genetics of seminal fluid in _Macrostomum_ flatworms. This emerging model system for studying sexual selection, sexual conflict and sex allocation in simultaneous hermaphrodites exhibits rich reproductive diversity and many methodological advantages (e.g. small size, transparency, short generation time, genomics and molecular tools such as RNAi). We will take full advantage of these features in this project, which aims to discover what seminal proteins are produced by the main model species _M. lignano_, what these proteins do, and how seminal fluid proteins vary within and between species.
+
+The positions are offered as part of a DFG-funded research project, providing for salary for up to 3 years (65% of the TV-L E13 scale), and available from early 2014 (exact start date negotiable). The Department of Evolutionary Biology at Bielefeld University offers a stimulating research environment for studying sexual selection, with five PIs all engaged in sexual selection research on a variety of model systems (see [http://www.uni-bielefeld.de/biologie/Evolutionsbiologie/index.html](http://www.uni-bielefeld.de/biologie/Evolutionsbiologie/index.html)). We are an international team of scientists, and the working language of the Department is English. The project will further benefit from the involvement of international cooperation partners in Switzerland, Austria and The Netherlands.
+
+If you have a strong background (including an M.Sc. or equivalent) in evolutionary biology or a related field and feel that you would be well suited to the project, please get in touch. One Ph.D. student will likely focus on the functional characterisation of seminal fluid and the other on evolutionary genetics aspects, but the specific focus of each project will be developed together with the successful candidates. Previous experience with molecular biology, quantitative genetics and/or molecular evolution would be an advantage, but is not required; full training will be provided.
+
+To apply, please send a letter of motivation (including research interests, skills and details of relevant experience), a CV, contact details for 2-3 referees and (if available) a copy of your M.Sc. thesis, all as a single pdf file, to Dr. Steven Ramm ([steven.ramm@uni-bielefeld.de](mailto:steven.ramm@uni-bielefeld.de)). Review of applicants will begin on 31st October, but applications will continue to be accepted until the positions are filled.
+
+We welcome applications from suitably qualified disabled applicants. Bielefeld University is recognised for its achievements in gender equality and is certified as a family-friendly university. We welcome applications from suitably qualified female applicants. Applications from women are especially encouraged in scientific disciplines as well as in technology, IT and skilled crafts. Applications are treated in accordance with the Landesgleichstellungsgesetz (state Equality Act).
+
+**Update 05.11.13**: Thanks to everyone who applied by last week’s deadline. I am now reading all your applications and will be in touch shortly. If you are reading this and still considering making an application, I will be shortlisting soon so please get in touch ASAP!
+
+**Update 17.12.13**: The positions have now been filled. That means that I do not currently have funding to hire additional PhD students, but If you are reading this and would be interested in developing an idea to apply for your own funding to work on a related topic, please get in touch.
