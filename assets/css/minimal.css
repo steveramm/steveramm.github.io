@@ -763,3 +763,39 @@ footer.site-footer {
 .blog-post-title { max-width: none; }
 
 .blog-pagination { flex-wrap: wrap; } }
+
+/* Blog post header refinements */
+
+.blog-post-header .page-label {
+  grid-column: 1 / -1;
+}
+
+.blog-post-title {
+  margin-bottom: 0;
+}
+
+.blog-post-meta {
+  color: var(--muted);
+  font-family: var(--font-meta);
+  font-size: 0.72rem;
+  margin-top: 1.5rem;
+}
+
+.blog-post-body .page-label {
+  grid-column: span 3;
+}
+
+.blog-post-body .page-content {
+  grid-column: span 9;
+}
+
+@media (max-width: 767px) {
+  .blog-post-body .page-label,
+  .blog-post-body .page-content {
+    grid-column: 1 / -1;
+  }
+
+  .blog-post-body .page-label {
+    margin-bottom: 1rem;
+  }
+}
