@@ -814,3 +814,10 @@ footer.site-footer {
 .blog-item .section-number {
   display: block !important;
 }
+
+/* Show dates on the blog index */
+.blog-item .section-number {
+  display: block !important;
+}
+
+
