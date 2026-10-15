@@ -9,4 +9,6 @@ section_number: "06"
 
 {% for post in site.posts %} <div class="page-grid research-item blog-item"> <div class="page-label"> <p class="section-number"> <time datetime="{{ post.date | datetoxmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time> </p> </div>
 
-<div class="page-content"> <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2> </div> </div> {% endfor %}
+<div class="page-content"> <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+
+<div class="blog-preview"> {% if post.excerpt %} {{ post.excerpt | markdownify | striphtml | normalizewhitespace | truncatewords: 32 }} {% else %} {{ post.content | markdownify | striphtml | normalizewhitespace | truncatewords: 32 }} {% endif %} </div> </div> </div> {% endfor %}
