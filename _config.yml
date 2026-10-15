@@ -129,3 +129,10 @@ exclude:
   - .bundle
   - node_modules
   - wordpress-migration-staging 
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
