@@ -2,6 +2,7 @@
 title: "Teaching"
 layout: page
 permalink: /teaching/
+section_number: "04"
 ---
 <div class="page-grid research-intro"> <div class="page-label"></div>
 
