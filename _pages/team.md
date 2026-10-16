@@ -20,20 +20,39 @@ section_number: "02"
 
 <div class="team-member"> <h2 class="team-member-name">Astrid Bavay</h2> <p> Technician. Working for the Ecolex technical platform at ECOBIO, Astrid is helping us to maintain our flatworm and algae cultures. </p> <div style="clear: both;"></div> </div>
 
+<div class="page-grid research-item">
+  <header class="page-label">
+    <h2>Group photos</h2>
+  </header>
+
+  <div class="page-content">
+
+    <div class="group-photo-entry">
+      <p>
+        <img src="/images/team/group2026.jpeg" alt="May 2026" class="group-photo">
+        May 2026. Top: Shaman, Elise, Clara, Steve, Léo; bottom: Sarthak, Quentin, Kélian.
+      </p>
+      <div style="clear: both;"></div>
+    </div>
+
+    <div class="group-photo-entry">
+      <p>
+        <img src="/images/team/group2025.jpeg" alt="May 2025" class="group-photo">
+        May 2025. Elise, Emma, Sarthak, Sébastien, Lucas, Steve, Eva.
+      </p>
+      <div style="clear: both;"></div>
+    </div>
+
+    <div class="group-photo-entry">
+      <p>
+        <img src="/images/team/group2016.jpeg" alt="February 2016" class="group-photo">
+        February 2016. Bahar, Michael, Yumi, Steve, Athina.
+      </p>
+      <div style="clear: both;"></div>
+    </div>
+
+  </div>
 </div>
-
-<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p></p> 
-
-<div class="page-content">
-
-<p><img src="/images/team/group2026.jpeg" alt="May 2026" class="group-photo">May 2026. Top: Shaman, Elise, Clara, Steve, Léo; bottom: Sarthak, Quentin, Kélian. </p> <div style="clear: both;"></div> </div>
-
-<p><img src="/images/team/group2025.jpeg" alt="May 2025" class="group-photo">May 2025. Elise, Emma, Sarthak, Sébastien, Lucas, Steve, Eva.</p> <div style="clear: both;"></div> </div>
-
-<p><img src="/images/team/group2016.jpeg" alt="February 2016" class="group-photo">February 2016. Bahar, Michael, Yumi, Steve, Athina.</p> <div style="clear: both;"></div> </div>
-
-
-</div> </div>
 
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> 
