@@ -22,12 +22,12 @@ section_number: "02"
 
 
 
-
+</div>
 
 <div class="page-grid research-item">
   <header class="page-label">
     <h2>Group photos</h2>
-  </header>
+  </header></div>
 
   <div class="page-content">
     <p>
