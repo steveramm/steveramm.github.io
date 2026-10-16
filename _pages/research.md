@@ -19,7 +19,7 @@ section_number: "01"
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sex allocation</h2> </header>
 
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+<div class="page-content"> <p>In hermaphroditic taxa, each individual has two potential routes to fitness and sex allocation refers to the optimal or realized division of resources between these two routes. Being transparent, Macrostomum flatworms are ideally suited for studying sex allocation decisions (we can estimate sex allocation based on the relative size of the testes and ovaries as proxies for investment into the male and female sex functions, respectively). Key questions we address include deciphering the mechanisms through which plasticity in sex allocation is achieved or on the consequences of altered conditions (such as a change in the abiotic or biotic environment, or a shift in mating system) for the optimal sex allocation.</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Selfing and mating system evolution</h2> </header>
 
