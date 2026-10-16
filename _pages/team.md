@@ -53,7 +53,7 @@ section_number: "02"
     </p>
     <div style="clear: both;"></div>
   </div>
-</div>
+</div> </div>
 
 
 <div class="page-grid research-item">
@@ -80,7 +80,6 @@ Eva Esteve – M1 intern (2025). Joining us from the Ecophysiology, Ecology and 
 Emma Lavaut – (2024-2025) as an LRU lecturer-researcher at ECOBIO, Emma was interested in how environmental stressors affect the operation of sexual selection, and how this can be quantified using Bateman gradients and other metrics.
 <br><br>
 Elena Breitenberger – M2 intern (2024). Elena used meta-analysis (in collaboration with Liam Dougherty in Liverpool) to investigate multi-stressor impacts on animal fertility, with an eventual focus on salinity that found some really strong and important effects – currently being written up for publication!
-<br><br>
 
 </div> </div>
 
@@ -110,4 +109,5 @@ Lennart Winkler – Bachelor student (2015-2016), Student assistant (2016-2017),
 Maike Foraita – Master student (2017) jointly supervised with Klaus Reinhold. Maike’s thesis investigated the sperm removal behaviour of the bush cricket Metaplastes ornatus (published here). Maike is now pursuing a PhD on animal behaviour and cognition at La Trobe University, Australia.
 <br><br>
 Mark Koschmieder – Master student (2017) jointly supervised with Matthias Galipaud. Mark’s Master thesis modelled the evolution of allometry under sexual selection.
+</div> </div>
 </div> </div>
