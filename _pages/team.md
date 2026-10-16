@@ -59,7 +59,7 @@ section_number: "02"
 <div style="clear: both;"></div>
 </div>
 <div class="team-member">
-<p><img src="/images/team/group2016.jpeg" alt="February 2016" class="group-photo"> February 2016. Bahar, Michael, Yumi, Steve, Athina.</p>
+<p><img src="/images/team/group2016.jpg" alt="February 2016" class="group-photo"> February 2016. Bahar, Michael, Yumi, Steve, Athina.</p>
 <div style="clear: both;"></div>
 </div>
 </div>
