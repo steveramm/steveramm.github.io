@@ -22,46 +22,19 @@ section_number: "02"
 
 </div> </div>
 
+<div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"><p></p> 
 
-<div class="page-grid research-item">
-  <header class="page-label">
-    <h2>Group photos</h2>
-  </header>
+<div class="page-content">
 
-  <div class="page-content">
-    <p>
-      <img src="/images/team/group2026.jpeg"
-           alt="May 2026"
-           class="group-photo">
-      May 2026. Top: Shaman, Elise, Clara, Steve, Léo; bottom: Sarthak, Quentin, Kélian.
-    </p>
-    <div style="clear: both;"></div>
+<p><img src="/images/team/group2026.jpeg" alt="May 2026" class="group-photo">May 2026. Top: Shaman, Elise, Clara, Steve, Léo; bottom: Sarthak, Quentin, Kélian. </p> <div style="clear: both;"></div> 
 
-    <p>
-      <img src="/images/team/group2025.jpeg"
-           alt="May 2025"
-           class="group-photo">
-      May 2025. Elise, Emma, Sarthak, Sébastien, Lucas, Steve, Eva.
-    </p>
-    <div style="clear: both;"></div>
+<p><img src="/images/team/group2025.jpeg" alt="May 2025" class="group-photo">May 2025. Elise, Emma, Sarthak, Sébastien, Lucas, Steve, Eva.</p> <div style="clear: both;"></div> 
 
-    <p>
-      <img src="/images/team/groupfeb2016.jpg"
-           alt="February 2016"
-           style="width: 500px; height: auto; float: left; margin-right: 15px;">
-      February 2016. Bahar, Michael, Yumi, Steve, Athina.
-    </p>
-    <div style="clear: both;"></div>
-  </div>
+<p><img src="/images/team/groupfeb2016.jpg" alt="February 2016" style="width: 500px; height: auto;">February 2016. Bahar, Michael, Yumi, Steve, Athina.</p> <div style="clear: both;"></div> </div>
+
 </div> </div>
 
-
-<div class="page-grid research-item">
-    <header class="page-label">
-        <h2>Alumni (Rennes)</h2>
-    </header>
-
-    <div class="page-content">
+<div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> 
 
 Kélian Salvadego – M2 intern (2026). A student on the EFCE Master programme in Rennes, Kélian worked with Sarthak to quantify the relationship between environmental stress and inbreeding depression, and then stayed on to help us in the lab maintaining stocks and experimental cultures over the summer. 
 <br><br>
@@ -80,16 +53,7 @@ Eva Esteve – M1 intern (2025). Joining us from the Ecophysiology, Ecology and 
 Emma Lavaut – (2024-2025) as an LRU lecturer-researcher at ECOBIO, Emma was interested in how environmental stressors affect the operation of sexual selection, and how this can be quantified using Bateman gradients and other metrics.
 <br><br>
 Elena Breitenberger – M2 intern (2024). Elena used meta-analysis (in collaboration with Liam Dougherty in Liverpool) to investigate multi-stressor impacts on animal fertility, with an eventual focus on salinity that found some really strong and important effects – currently being written up for publication!
-
-</div> </div>
-
-<div class="page-grid research-item">
-    <header class="page-label">
-        <h2>Alumni (Bielefeld)</h2>
-    </header>
-
-    <div class="page-content">
-
+<br><br>
 Sonja Schindler – Biological-Technical Assistant in the Department of Evolutionary Biology, Bielefeld University, Sonja was instrumental in maintaining or worm cultures and supporting various research projects in Bielefeld.
 <br><br>
 Athina Giannakara – as a Master student (2013-15), Research Assistant (2016-17), PhD student (2018-2020) and Postdoc (2021-2023), Athina contributed to many different projects and was a key member of the group for the 10+ years we were in Bielefeld. After working on Macrostomum spermatogenesis for her Master thesis project, she contributed to some other projects in the lab (e.g. here, here and here) before completing her PhD on the evolution of self-fertilisation in Macrostomum flatworms, including M. pusillum and M. hystrix. Finally, she worked as a postdoc on the function and evolution of seminal fluid proteins.
