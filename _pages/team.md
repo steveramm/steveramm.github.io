@@ -74,4 +74,4 @@ Maike Foraita – Master student (2017) jointly supervised with Klaus Reinhold. 
 <br><br>
 Mark Koschmieder – Master student (2017) jointly supervised with Matthias Galipaud. Mark’s Master thesis modelled the evolution of allometry under sexual selection.
 </div> </div>
-</div> </div>
+
