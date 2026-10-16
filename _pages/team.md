@@ -63,6 +63,7 @@ section_number: "02"
 <div style="clear: both;"></div>
 </div>
 </div>
+</div>
 <div class="page-grid research-item">
 <header class="page-label">
 <p class="section-number">02.03</p>
