@@ -834,4 +834,27 @@ footer.site-footer {
   display: block !important;
 }
 
+@media (max-width: 767px) {
+  .page-layout .research-item {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 1rem;
+  }
 
+  .page-layout .research-item > .page-label,
+  .page-layout .research-item > .page-content {
+    grid-column: 1 / -1;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .page-layout .team-photo,
+  .page-layout .group-photo {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    margin: 0 0 1rem;
+  }
+}
