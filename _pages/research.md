@@ -25,11 +25,7 @@ section_number: "01"
 
 <div class="page-content"> <p>A further consequence of hermaphroditism is that it opens up the possibility of self-fertilization. Whether individuals produce predominantly through outcrossing or selfing has profound implications for the genetics and adaptive potential of populations, and we quantify intra- and inter-specific variation in selfing propensity and how this jointly evolves with inbreeding depression and sex allocation. A current major focus of the lab is to understand the purging of deleterious alleles upon their exposure to selection after selfing, as well as on quantifying genetic and epigenetic contributions to the strength of inbreeding depression.</p> </div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Join us?</h2> </header>
-
-<div class="page-content"> <p><strong>Join us?</strong> If you might be interested in joining the lab to work in one or more of these areas, don't hesitate to get in touch to discuss potential projects and funding options for PhD or postdoctoral research. We're also keen to host M1 and M2 internships - please get in touch as early as possible to enquire about available projects.</p> </div> </div>
-
-<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Funding</h2> </header>
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2></h2> </header>
 
 <div class="page-content"> <p>We gratefully acknowledge support for our current and previous research from:
 <br><br>
@@ -40,3 +36,8 @@ Human Frontier Science Program (HFSP)<br>
 Marie Curie Actions (EU FP6)<br>
 Natural Environment Research Council (UK)<br>
 Rennes Métropole</p> </div> </div>
+
+<div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Join us?</h2> </header>
+
+<div class="page-content"> <p><strong>Join us?</strong> If you might be interested in joining the lab to work in one or more of these areas, don't hesitate to get in touch to discuss potential projects and funding options for PhD or postdoctoral research. We're also keen to host M1 and M2 internships - please get in touch as early as possible to enquire about available projects.</p> </div> </div>
+
