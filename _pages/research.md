@@ -15,7 +15,7 @@ section_number: "01"
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sperm competition, sexual selection and sexual conflict</h2> </header>
 
-<div class="page-content"> <p>Description of the second research theme.</p> </div> </div>
+<div class="page-content"> <p>Post-mating sexual selection via sperm competition and cryptic female choice is a fundamental force shaping many aspects of animal reproductive morphology, physiology and behaviour, often associated with sexual conflict over reproductive interactions. Core interests of the lab in this area concern selection for and mechanisms of plasticity in sperm production traits; the evolution of animal genitalia; and the functional and evolutionary significance of seminal fluid proteins. We helped establish M. lignano as a useful model for studying all of these questions, showing for example that flatworm seminal fluid is complex, with genotype-environment interactions for seminal fluid expression that are linked to sperm competitive ability and that novel proteins in seminal fluid mediate sexual conflict of sperm fate. </p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Sex allocation</h2> </header>
 
