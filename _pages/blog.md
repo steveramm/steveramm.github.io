@@ -4,17 +4,6 @@ layout: page
 permalink: /blog/
 section_number: "06"
 ---
+<header class="page-header page-grid"> <div class="page-label"> <span class="meta">06</span> <h1>Blog</h1> </div> <div class="page-content page-intro"> <p>Notes, news and updates from the lab.</p> </div> </header>
 
-{% for post in site.posts %}
-<div class="page-grid research-item blog-item">
-  <div class="page-label">
-    <p class="section-number">{{ post.date | date: "%b %-d, %Y" }}</p>
-  </div>
-  <div class="page-content">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-    <p class="blog-preview">{{ post.excerpt | strip_html | truncatewords: 32 }}</p>
-  </div>
-</div>
-{% else %}
-<p>No blog posts found.</p>
-{% endfor %}
+<div class="blog-list"> {% for post in site.posts %} <article class="blog-item page-grid"> <div class="blog-date page-label"> <time class="meta" datetime="{{ post.date | datetoxmlschema }}"> {{ post.date | date: "%b %-d, %Y" }} </time> </div> <div class="blog-title page-content"> <h2><a href="{{ post.url | relativeurl }}">{{ post.title | escape }}</a></h2> {% if post.excerpt %} <div class="blog-excerpt"> {{ post.excerpt | markdownify | striphtml | truncate: 220 }} </div> {% endif %} </div> </article> {% else %} <p>No blog posts yet.</p> {% endfor %} </div>
