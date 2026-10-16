@@ -37,7 +37,7 @@ February 2016. Bahar, Michael, Yumi, Steve, Athina.</p>
 
 <div class="page-grid research-item">
     <header class="page-label">
-        <h2>Alumni</h2>
+        <h2>Alumni (Rennes)</h2>
     </header>
 
     <div class="page-content">
@@ -61,8 +61,32 @@ Emma Lavaut – (2024-2025) as an LRU lecturer-researcher at ECOBIO, Emma was in
 Elena Breitenberger – M2 intern (2024). Elena used meta-analysis (in collaboration with Liam Dougherty in Liverpool) to investigate multi-stressor impacts on animal fertility, with an eventual focus on salinity that found some really strong and important effects – currently being written up for publication!
 <br><br>
 
+</div> </div>
 
-</p> </div> </div>
+<div class="page-grid research-item">
+    <header class="page-label">
+        <h2>Alumni (Bielefeld)</h2>
+    </header>
 
+    <div class="page-content">
 
-
+Sonja Schindler – Biological-Technical Assistant in the Department of Evolutionary Biology, Bielefeld University, Sonja was instrumental in maintaining or worm cultures and supporting various research projects in Bielefeld.
+<br><br>
+Athina Giannakara – as a Master student (2013-15), Research Assistant (2016-17), PhD student (2018-2020) and Postdoc (2021-2023), Athina contributed to many different projects and was a key member of the group for the 10+ years we were in Bielefeld. After working on Macrostomum spermatogenesis for her Master thesis project, she contributed to some other projects in the lab (e.g. here, here and here) before completing her PhD on the evolution of self-fertilisation in Macrostomum flatworms, including M. pusillum and M. hystrix. Finally, she worked as a postdoc on the function and evolution of seminal fluid proteins.
+<br><br>
+Suhaas Sehgal – a visiting BS/MS student from IISER Mohali, Suhaas joined the lab initially with an undergraduate project scholarship funded by the Association for the Study of Animal Behaviour to study resource-dependent sex allocation in Macrostomum lignano, and then conducted his Master thesis research on seminal fluid-mediated effects. Suhaas is now a PhD student with John Pannell in Lausanne.
+<br><br>
+Shreya Dimri – Shreya completed her Master thesis (2021) working on the molecular basis of sex allocation plasticity, and is now a PhD student in the Department of Evolutionary Biology, Bielefeld University, working on a meta-analysis project with Alfredo Sanchez-Tojar and Klaus Reinhold to understand phenotypic variation within and between species.
+<br><br>
+Michael Weber – Postdoc (2019-2020) and PhD student (2014-2019). Michael completed his PhD on the identification, functional characterisation and fitness effects of seminal fluid proteins in Macrostomum in early 2019, and was then awarded a Career Bridge Postdoctoral Fellowship to work on environmental impacts on fertility.
+<br><br>
+Bahar Patlar – PhD student (2014-2018). Bahar completed her PhD on the evolutionary quantitative genetics of seminal fluid in Macrostomum, including describing genetic and environmental sources of variation in seminal fluid expression, identifying functions of specific seminal fluid proteins and investigating genotype x environment effects on sperm competitive ability. Following postdoctoral fellowships in Alberto Civetta‘s lab at the University of Winnipeg and Amro Zayed’s lab at York University in Toronto, Canada, Bahar is now a research associate (group leader) in the Department of Animal Ecology at the University of Halle-Wittenberg, Germany.
+<br><br>
+Yumi Nakadera – Postdoc (2015-2019). Yumi joined the department as one of Bielefeld University’s career bridge fellows, and was then awarded a Postdoctoral Research Fellowship from the Alexander von Humboldt Foundation, working on seminal fluid evolution in snails, and especially on plasticity in seminal fluid expression and seeking evidence for rapid functional divergence between populations. She is now a postdoc in Joris Koene‘s lab at VU Amsterdam.
+<br><br>
+Lennart Winkler – Bachelor student (2015-2016), Student assistant (2016-2017), Master student (2017-2019). Lennart completed his Bachelor thesis on sex allocation in Macrostomum hystrix and his Master thesis on the evolution of the house mouse baculum (in collaboration with Anna Lindholm, University of Zurich). He is now a PhD student at TU Dresden (with Tim Janicke and Klaus Reinhardt).
+<br><br>
+Maike Foraita – Master student (2017) jointly supervised with Klaus Reinhold. Maike’s thesis investigated the sperm removal behaviour of the bush cricket Metaplastes ornatus (published here). Maike is now pursuing a PhD on animal behaviour and cognition at La Trobe University, Australia.
+<br><br>
+Mark Koschmieder – Master student (2017) jointly supervised with Matthias Galipaud. Mark’s Master thesis modelled the evolution of allometry under sexual selection.
+</div> </div>
