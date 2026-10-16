@@ -18,6 +18,8 @@ section_number: "02"
 
 <div class="team-member"> <h2 class="team-member-name">Sarthak Grover</h2> <p> <img src="/images/team/sarthak.jpg" alt="Sarthak grover" class="team-photo"> PhD student. In his project “Selfing Under Stress”, Sarthak is investigating potential links between environmental variation, inbreeding depression and mating system expression. Sarthak initially joined the lab in Bielefeld in 2022 while he was a BS/MS student at IISER Mohali, completing his Master thesis research on mating system expression and sex allocation in the flatworm _Macrostomum hystricinum_. </p> <div style="clear: both;"></div> </div>
 
+<div class="team-member"> <h2 class="team-member-name">Astrid Bavay</h2> <p> Technician. Working for the Ecolex technical platform at ECOBIO, Astrid is helping us to maintain our flatworm and algae cultures. </p> <div style="clear: both;"></div> </div>
+
 </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"><p></p> 
@@ -30,7 +32,19 @@ section_number: "02"
 
 <p><img src="/images/team/groupfeb2016.jpg" alt="February 2016" style="width: 500px; height: auto;">February 2016. Bahar, Michael, Yumi, Steve, Athina.</p> <div style="clear: both;"></div> </div>
 
-<div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> <p>Information about former group members.</p> </div> </div>
+<div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> <p>
+
+Kélian Salvadego – M2 intern (2026). A student on the EFCE Master programme in Rennes, Kélian worked with Sarthak to quantify the relationship between environmental stress and inbreeding depression, and then stayed on to help us in the lab maintaining stocks and experimental cultures over the summer. 
+<br><br>
+Léo Jamon – M1 intern (2026). A student on the EFCE Master programme in Rennes, Léo worked with Elise to study the experimental evolution of thermal adaptation.
+<br><br>
+Clara Crozatier – M1 intern (2026). A student on the BEE Master programme at Aix Marseille Université, Clara joined the lab to work with Elise on the contributions of natural and sexual selection to adaptation under novel thermal and salinity regimes.
+<br><br>
+Shaman Dor-Vincent – M1 intern (2026). A student on the IMABEE Master programme in Rennes, Shaman investigated the molecular basis of sex allocation plasticity in Macrostomum lignano.
+<br><br>
+
+
+</p> </div> </div>
 
 
 
