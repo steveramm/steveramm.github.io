@@ -39,5 +39,5 @@ Rennes Métropole</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Join us?</h2> </header>
 
-<div class="page-content"> <p><strong>Join us?</strong> If you might be interested in joining the lab to work in one or more of these areas, don't hesitate to get in touch to discuss potential projects and funding options for PhD or postdoctoral research. We're also keen to host M1 and M2 internships - please get in touch as early as possible to enquire about available projects.</p> </div> </div>
+<div class="page-content"> <p>If you might be interested in joining the lab to work in one or more of these areas, don't hesitate to get in touch to discuss potential projects and funding options for PhD or postdoctoral research. We're also keen to host M1 and M2 internships - please get in touch as early as possible to enquire about available projects.</p> </div> </div>
 
