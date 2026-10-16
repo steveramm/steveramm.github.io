@@ -60,6 +60,8 @@ section_number: "02"
   </div>
 </div>
 
+</div>
+
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> 
 
