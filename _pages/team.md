@@ -20,7 +20,7 @@ section_number: "02"
 
 <div class="team-member"> <h2 class="team-member-name">Astrid Bavay</h2> <p> Technician. Working for the Ecolex technical platform at ECOBIO, Astrid is helping us to maintain our flatworm and algae cultures. </p> <div style="clear: both;"></div> </div>
 
-</div> </div>
+</div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Group photos</h2> </header> <div class="page-content"> <p></p> 
 
@@ -35,7 +35,6 @@ section_number: "02"
 
 </div> </div>
 
-</div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"> 
 
