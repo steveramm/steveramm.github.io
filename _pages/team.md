@@ -78,4 +78,4 @@ section_number: "02"
 <p><strong>Eva Esteve</strong> – M1 intern (2025). Joining us from the Ecophysiology, Ecology and Ethology Master at Uni Strasbourg, Eva worked on climate change and fertility, with a particular focus on sperm-mediated impacts of heat stress.</p>
 <p><strong>Emma Lavaut</strong> – (2024-2025) as an LRU lecturer-researcher at ECOBIO, Emma was interested in how environmental stressors affect the operation of sexual selection, and how this can be quantified using Bateman gradients and other metrics.</p>
 <p><strong>Elena Breitenberger</strong> – M2 intern (2024). Elena used meta-analysis (in collaboration with Liam Dougherty in Liverpool) to investigate multi-stressor impacts on animal fertility, with an eventual focus on salinity that found some really strong and important effects – currently being written up for publication!</p>
-<p>Alumni from Bielefeld (2012-2022) listed <a href="https://https://macrostomum.wordpress.com/people/">here</a>.</p>
+<p>Alumni from Bielefeld (2012-2022) listed <a href="https://https://macrostomum.wordpress.com/people/">here</a>.</p></div></div>
