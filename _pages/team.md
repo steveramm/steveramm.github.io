@@ -35,9 +35,12 @@ style="width: 500px; height: auto; float: left; margin-right: 15px;">
 February 2016. Bahar, Michael, Yumi, Steve, Athina.</p>
 <div style="clear: both;"></div> </div></div>
 
-<div class="page-grid research-item"> <header class="page-label"> <h2>Alumni</h2> </header> <div class="page-content"><p></p> 
+<div class="page-grid research-item">
+    <header class="page-label">
+        <h2>Alumni</h2>
+    </header>
 
-<div class="page-content">
+    <div class="page-content">
 
 Kélian Salvadego – M2 intern (2026). A student on the EFCE Master programme in Rennes, Kélian worked with Sarthak to quantify the relationship between environmental stress and inbreeding depression, and then stayed on to help us in the lab maintaining stocks and experimental cultures over the summer. 
 <br><br>
