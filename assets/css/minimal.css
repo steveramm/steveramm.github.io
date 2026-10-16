@@ -858,3 +858,8 @@ footer.site-footer {
     margin: 0 0 1rem;
   }
 }
+
+.team-member:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
