@@ -11,7 +11,6 @@ section_number: "02"
 <p class="research-lead"></p>
 </div>
 </div>
-
 <div class="page-grid research-item">
 <header class="page-label">
 <p class="section-number">02.01</p>
@@ -45,7 +44,6 @@ section_number: "02"
 </div>
 </div>
 </div>
-
 <div class="page-grid research-item">
 <header class="page-label">
 <p class="section-number">02.02</p>
@@ -66,7 +64,6 @@ section_number: "02"
 </div>
 </div>
 </div>
-
 <div class="page-grid research-item">
 <header class="page-label">
 <p class="section-number">02.03</p>
