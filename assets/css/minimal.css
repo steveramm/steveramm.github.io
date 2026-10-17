@@ -863,3 +863,14 @@ footer.site-footer {
   border-bottom: 0;
   padding-bottom: 0;
 }
+
+edia (max-width: 767px) {
+  .blog-item .page-label,
+  .blog-item .page-content {
+    grid-column: 1 / -1;
+  }
+
+  .blog-item .page-label {
+    margin-bottom: 0.25rem;
+  }
+}
