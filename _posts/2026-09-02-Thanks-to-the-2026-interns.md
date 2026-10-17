@@ -1,1 +1,8 @@
+---
+title: "Thanks to the 2026 interns"
+date: 2026-09-02
+categories: 
+  - "miscellaneous"
+---
+
 A quick note of appreciation for this year's cohort of interns: Kélian (M2) worked with Sarthak to investigate the relationship between stress and inbreeding depression, and Clara and Léo (M1) joined Elise in performing some first fitness assays for our lines experimentally evolving to acute and chronic stress exposures. Interesting results all round that we'll be sharing soon. And thanks to Kélian and Léo for staying on over the summer to help maintain our stock cultures and the experimental evolution lines.
