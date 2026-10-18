@@ -26,17 +26,17 @@ GSF (Getting Science Funded): lectures and practicals on responding to a funding
 <br>
 RET (Review Thesis): together with Philippe Vandenkoornhuyse, we coordinate this literature review module during the first semester that aims to prepare students to embark on their research internship in semester 2.
 <br>
-STAGE (Research Internship): together with Julien Petillon, we are responsible for coordinating the 6-month M2 internship, validating topics, tutoring students (together with Manuel Plantegenest) and organising the thesis defenses each June.
+STAGE (Research Internship): together with Julien Petillon, we are responsible for coordinating the 6-month M2 internship, validating topics, tutoring students (together with Manuel Plantegenest) and organising the thesis defenses each June.</p>
 <br>
-For <strong>M1 EFCE, IMABEE and MODE</strong>, I teach on the modules:
+<p>For <strong>M1 EFCE, IMABEE and MODE</strong>, I teach on the modules:
 <br>
 FECO (Fondements écologiques): lectures on evolutionary fundamentals and sexual selection; practical on game theory.
 <br>
 PP1 (Projet phase 1): supervising group projects at the Paimpont Biological Field Station.
 <br>
-PP2 (Projet phase 2): supervising group projects with a more molecular/analysis component.
+PP2 (Projet phase 2): supervising group projects with a more molecular/analysis component.</p>
 <br>
-For the licence (Bachelor) programme <strong>BO3E</>, I teach on the modules:
+<p>For the licence (Bachelor) programme <strong>BO3E</strong>, I teach on the modules:
 <br>
 EG1 (General Ecology): lectures and practicals on population dynamics. 
 <br>
