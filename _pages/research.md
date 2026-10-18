@@ -25,6 +25,7 @@ section_number: "01"
 
 <div class="page-content"> <p>A further consequence of hermaphroditism is that it opens up the possibility of self-fertilization. Whether individuals produce predominantly through outcrossing or selfing has profound implications for the genetics and adaptive potential of populations, and we quantify intra- and inter-specific variation in selfing propensity and how this jointly evolves with inbreeding depression and sex allocation. A current major focus of the lab is to understand the purging of deleterious alleles upon their exposure to selection after selfing, as well as on quantifying genetic and epigenetic contributions to the strength of inbreeding depression.</p>
 
+<p></p>
 <p>We’re especially interested in combinations of these four research areas to study how the different processes interact with one another.</p></div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2></h2> </header>
