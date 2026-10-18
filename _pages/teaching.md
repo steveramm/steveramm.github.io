@@ -18,31 +18,31 @@ communication skills alongside a thorough understanding of biology.</p> </div> <
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Current teaching</h2> </header>
 
-<div class="page-content"> <p>For M2 EFCE/IMABEE:
+<div class="page-content"> <p>For <strong>M2 EFCE/IMABEE</strong>:
 <br>
-BEL: lectures on fundamentals of evolution and genetics applied to behaviour and life history; trade-offs and correlations in evolution; sexual and genetic conflicts; social evolution and major evolutionary transitions.
+BEL (Evolution of behavior and life history traits): lectures on fundamentals of evolution and genetics applied to behaviour and life history; trade-offs and correlations in evolution; sexual and genetic conflicts; social evolution and major evolutionary transitions.
 <br>
-GSF: lectures and practicals on responding to a funding call - including setting objectives, experimental design, staff and budget planning - with the aim of developing writing and communication skills. 
+GSF (Getting Science Funded): lectures and practicals on responding to a funding call - including setting objectives, experimental design, staff and budget planning - with the aim of developing writing and communication skills. 
 <br>
 RET (Review Thesis): together with Philippe Vandenkoornhuyse, we coordinate this literature review module during the first semester that aims to prepare students to embark on their research internship in semester 2.
 <br>
 STAGE (Research Internship): together with Julien Petillon, we are responsible for coordinating the 6-month M2 internship, validating topics, tutoring students (together with Manuel Plantegenest) and organising the thesis defenses each June.
 <br>
-For M1 EFCE, IMABEE and MODE, I teach on the modules:
+For <strong>M1 EFCE, IMABEE and MODE</strong>, I teach on the modules:
 <br>
-FECO: lectures on evolutionary fundamentals and sexual selection; practical on game theory.
+FECO (Fondements écologiques): lectures on evolutionary fundamentals and sexual selection; practical on game theory.
 <br>
-PP1:
+PP1 (Projet phase 1): supervising group projects at the Paimpont Biological Field Station.
 <br>
-PP2: 
+PP2 (Projet phase 2): supervising group projects with a more molecular/analysis component.
 <br>
-For the licence (Bachelor) programme BO3E, I teach on the modules:
+For the licence (Bachelor) programme <strong>BO3E</>, I teach on the modules:
 <br>
 EG1 (General Ecology): lectures and practicals on population dynamics. 
 <br>
-EV2: lectures and practicals on genome evolution and molecular biology.
+EV2 (Approfondissement en évolution): lectures and practicals on genome evolution and molecular biology.
 <br>
-RED: lectures and practicals on scientific writing.
+RED (Rédaction scientifique): lectures and practicals on scientific writing.
 </p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Previous experience</h2> </header>
