@@ -24,17 +24,17 @@ BEL (Evolution of behavior and life history traits): lectures on fundamentals of
 <br>
 GSF (Getting Science Funded): lectures and practicals on responding to a funding call - including setting objectives, experimental design, staff and budget planning - with the aim of developing writing and communication skills. 
 <br>
-RET (Review Thesis): together with Philippe Vandenkoornhuyse, we coordinate this literature review module during the first semester that aims to prepare students to embark on their research internship in semester 2.
+RET (Review Thesis): together with <a href="https://ecobio.univ-rennes.fr/interlocuteurs/philippe-vandenkoornhuyse">Philippe Vandenkoornhuyse</a>, we coordinate this literature review module during the first semester that aims to prepare students to embark on their research internship in semester 2.
 <br>
-STAGE (Research Internship): together with Julien Petillon, we are responsible for coordinating the 6-month M2 internship, validating topics, tutoring students (together with Manuel Plantegenest) and organising the thesis defenses each June.</p>
+STAGE (Research Internship): together with <a href="https://ecobio.univ-rennes.fr/interlocuteurs/julien-petillon">Julien Pétillon</a>, we are responsible for coordinating the 6-month M2 internship, validating topics, tutoring students (together with Manuel Plantegenest) and organising the thesis defenses each June.</p>
 <br>
 <p>For <strong>M1 EFCE, IMABEE and MODE</strong>, I teach on the modules:
 <br>
 FECO (Fondements écologiques): lectures on evolutionary fundamentals and sexual selection; practical on game theory.
 <br>
-PP1 (Projet phase 1): supervising group projects at the Paimpont Biological Field Station.
+PP1 (Projet phase 1): supervising group projects at the <a href="https://paimpont.univ-rennes.fr">Paimpont Biological Station</a> with a field component.
 <br>
-PP2 (Projet phase 2): supervising group projects with a more molecular/analysis component.</p>
+PP2 (Projet phase 2): supervising group projects with a greater emphasis on molecular/analysis methods.</p>
 <br>
 <p>For the licence (Bachelor) programme <strong>BO3E</strong>, I teach on the modules:
 <br>
@@ -47,6 +47,6 @@ RED (Rédaction scientifique): lectures and practicals on scientific writing.
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Previous experience</h2> </header>
 
-<div class="page-content"> <p>As a lecturer in Bielefeld (2012-2022), I coordinated modules on the Evolution of Behaviour: Key Concepts in Evolutionary Ecology: Science Communication; and Reading. Writing & Talking About Biology.</p> </div> </div>
+<div class="page-content"> <p>As a lecturer in Bielefeld (2012-2022), I coordinated modules on the Evolution of Behaviour; Key Concepts in Evolutionary Ecology; Science Communication; and Reading. Writing & Talking About Biology.</p> </div> </div>
 
 
