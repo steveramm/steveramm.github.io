@@ -36,7 +36,9 @@ Human Frontier Science Program (HFSP)<br>
 Marie Curie Actions (EU FP6)<br>
 Natural Environment Research Council (UK)<br>
 Région Bretagne<br> 
-Rennes Métropole</p> </div> </div>
+Rennes Métropole<br>
+Universität Bielefeld<br>
+Université de Rennes</p> </div> </div>
 
 <div class="page-grid research-item"> <header class="page-label"> <p class="section-number">01.02</p> <h2>Join us?</h2> </header>
 
